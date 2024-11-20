@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="229.0" prefWidth="240.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.erwan_lecoz_morpiob.WhoPlayController">
+   <children>
+      <Label alignment="CENTER" prefHeight="54.0" prefWidth="240.0" style="-fx-background-color: #CFD9CC;" text="Qui commence ?">
+         <font>
+            <Font name="Press Start 2P Regular" size="14.0" />
+         </font>
+         <padding>
+            <Insets top="10.0" />
+         </padding>
+      </Label>
+      <VBox alignment="TOP_CENTER" prefHeight="158.0" prefWidth="240.0">
+         <children>
+            <Button fx:id="j1ButtonLabel" mnemonicParsing="false" onAction="#j1ButtonActivation" prefHeight="39.0" prefWidth="170.0" text="J1">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <font>
+                  <Font name="Press Start 2P Regular" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="j2ButtonLabel" mnemonicParsing="false" onAction="#j2ButtonActivation" prefHeight="39.0" prefWidth="170.0" text="J2">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <font>
+                  <Font name="Press Start 2P Regular" size="12.0" />
+               </font>
+               <VBox.margin>
+                  <Insets bottom="10.0" top="10.0" />
+               </VBox.margin>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#randomButtonActivation" prefHeight="39.0" prefWidth="170.0" text="Aléatoire">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <font>
+                  <Font name="Press Start 2P Regular" size="12.0" />
+               </font>
+            </Button>
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <VBox.margin>
+            <Insets top="15.0" />
+         </VBox.margin>
+      </VBox>
+   </children>
+</VBox>

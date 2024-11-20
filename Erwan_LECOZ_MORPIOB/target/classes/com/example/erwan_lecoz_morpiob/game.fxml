@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="680.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.erwan_lecoz_morpiob.GameController">
+   <children>
+      <HBox prefHeight="86.0" prefWidth="480.0" style="-fx-background-color: #80C9A7;">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Morpion">
+               <font>
+                  <Font name="Press Start 2P Regular" size="24.0" />
+               </font>
+               <HBox.margin>
+                  <Insets left="10.0" top="10.0" />
+               </HBox.margin>
+            </Text>
+            <HBox alignment="TOP_RIGHT" prefHeight="86.0" prefWidth="355.0">
+               <children>
+                  <ComboBox fx:id="comboBox" prefHeight="26.0" prefWidth="107.0" promptText="Options" style="-fx-background-color: #5F997E;">
+                     <HBox.margin>
+                        <Insets right="10.0" top="10.0" />
+                     </HBox.margin>
+                  </ComboBox>
+               </children>
+            </HBox>
+         </children></HBox>
+      <GridPane alignment="CENTER" prefHeight="492.0" prefWidth="480.0" styleClass="custom-grillpane">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <StackPane prefHeight="150.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="grillButton11" mnemonicParsing="false" onAction="#buttonClicked11" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1">
+               <children>
+                  <Button fx:id="grillButton12" mnemonicParsing="false" onAction="#buttonClicked12" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2">
+               <children>
+                  <Button fx:id="grillButton13" mnemonicParsing="false" onAction="#buttonClicked13" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="1">
+               <children>
+                  <Button fx:id="grillButton21" mnemonicParsing="false" onAction="#buttonClicked21" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <children>
+                  <Button fx:id="grillButton22" mnemonicParsing="false" onAction="#buttonClicked22" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+               <children>
+                  <Button fx:id="grillButton23" mnemonicParsing="false" onAction="#buttonClicked23" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="2">
+               <children>
+                  <Button fx:id="grillButton31" mnemonicParsing="false" onAction="#buttonClicked31" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="147.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <children>
+                  <Button fx:id="grillButton32" mnemonicParsing="false" onAction="#buttonClicked32" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+               <children>
+                  <Button fx:id="grillButton33" mnemonicParsing="false" onAction="#buttonClicked33" prefHeight="120.0" prefWidth="120.0" style="-fx-background-color: #80C9A7;">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="24.0" />
+                     </font></Button>
+               </children>
+            </StackPane>
+         </children>
+         <padding>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </padding>
+      </GridPane>
+      <HBox prefHeight="105.0" prefWidth="480.0" style="-fx-background-color: #D5E6CE;">
+         <children>
+            <VBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="240.0">
+               <children>
+                  <Label fx:id="playerOne" text="Joueur 1">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="20.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets top="10.0" />
+                     </VBox.margin>
+                  </Label>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <Label fx:id="scoreOne" text="0">
+                           <font>
+                              <Font name="Press Start 2P Regular" size="20.0" />
+                           </font>
+                        </Label>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@image/etoile-removebg-preview.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </HBox>
+               </children></VBox>
+            <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="240.0">
+               <children>
+                  <Label fx:id="playerTwo" text="Joueur 2">
+                     <font>
+                        <Font name="Press Start 2P Regular" size="20.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets top="10.0" />
+                     </VBox.margin>
+                  </Label>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <Label fx:id="scoreTwo" text="0">
+                           <font>
+                              <Font name="Press Start 2P Regular" size="20.0" />
+                           </font>
+                        </Label>
+                        <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@image/etoile-removebg-preview.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </HBox>
+               </children></VBox>
+         </children>
+      </HBox>
+   </children>
+</VBox>
