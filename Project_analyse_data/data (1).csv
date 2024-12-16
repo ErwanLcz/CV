@@ -1,0 +1,1165 @@
+﻿nom_etudiant;prenom_etudiant;annee;bac;classement_parcoursup;nb_anj_s3;nb_anj_s4;note_s3;note_s4;nom_enseignant;prenom_enseignant;type_stage;titre_stage;description_sujet;debut_stage;fin_stage;entreprise;adresse_entreprise;maitre_de_stage;email_maitre_de_stage;rapport_fond;rapport_forme;soutenance_fond;soutenance_forme;soutenance_echange_jury;mission_methode;mission_travail_fourni;mission_comportement
+Mercier;Sandrine;2019;0031-étran;;0;0;15,22;16,30;Ernet;Bruno;Web;Save logs Php/MySQL;L'objectif de ce stage est de définir et développer un modéle mathématique à partir de données technique standard permettant d'analyser les écarts-types sur des indicateurs liées au monitoring des data centers. Développement prévu en Php/MySQL sur une partie avec liberté laissée au stagiaire sur les langages de développement complémentaires;08/04/2019;21/06/2019;JOUVE;"1 Rue du Docteur Louis Sauvé
+53100 Mayenne";Erwan BUSUTTIL;ebusuttil@jouve.com;16;16;17;16;17;18;18;18
+Sanchez;Léa;2018;0031-étran;;1;1;13,57;13,34;Laborie;Clément;Web;Développeur Full Stack;Consolidation de deux solutions informatiques/back et front end). Recherche et développement d'une nouvelle solution web;09/04/2018;22/06/2018;CHECK AND VISIT SAS;"Rennes School of Business
+15 Rue Professeur Jean Pecker
+24227
+35000 RENNES";Thibault Le TRENT;tletrent@checkandvisit.com;11;11;15;13;15;17;18,5;18,5
+Petit;Mathis;2020;0031-étran;;3;1;10,69;12,75;Vieillard;Nathalie;Mobile;Developpeur mobile hybride;Création d'une borne de commande sous Android pour un restaurant (type borne de McDonald's);06/04/2020;19/06/2020;WorkCode SARL;"Route De l'Arbogne 3
+1564 DOMDIDIER
+SUISSE";Mario MATTHEY;matthey.m@workcode.ch;9;13;15;16;17;17;20;19
+Dupont;Lina;2020;S-Sciences;18;2;0;17,85;16,88;Oubahssi;Lahcen;Développement;Développement JAVA – Modules Eclipse & Maven;"Les équipes de développement travaillent actuellement au sein de l’écosystème Eclipse RCP/Java. On y retrouve des outils permettant de vérifier en amont la qualité du code (Checkstyle, Sonar/SonarLint, etc.), et des outils destinés à compiler/assembler des livrables de manière industrielle (Maven, Tycho, etc.).
+L’objectif du stage est de faire progresser l’ensemble de cette chaîne outillée, en développant de nouveaux plugins ou en faisant progresser les plugins existants. ";01/06/2020;21/08/2020;ALL4TEC;"Rue Ferdinand BUISSON, Parc Ceres, 
+53810 CHANGÉ";Tony HEDOUX;tony.hedoux@all4tec.net;12;13;18;18;18;18;15;18
+Simon;Océane;2020;S-Sciences;28;1;1;16,96;15,96;Marfisi;Iza;Web;Développement d'une application d'inscription en ligne et de gestion de subvention sur smartphone;Développement d'une application d'inscription en ligne et de gestion de subvention sur smartphone pour les adhérents de l'Entente voir pour les nouveaux. Le développement s'appuiera sur l'application web Eclub;06/04/2020;31/07/2020;Entente Sportive Caudacienne;"Rue du Chemin Vert
+94510 LA QUEUE EN BRIE";Thierry Alberge;e.forum.fr@gmail.com;12;16;18;13;16;17;20;20
+Dubois;Hugo;2017;S-Sciences;12;2;1;16,39;17,29;Champalle;Olivier;Développement;Développeur java;"Vous serez intégré à 2 projets
+* projet ""code de la route"": il s'agit d'un SI permettant aux candidats de s'inscrire
+à l'épreuve du code de la route dans les locaux de La Poste
+* projet TEM (Telecom Expanse Management), produit à destination des 
+entreprises pour gérer son parc de téléphone mobile ou fibre et récupérer auprès
+des opérateurs Telecom les factures détaillées pour analyser et proposer des optimisations de coûts";10/04/2017;23/06/2017;DOCAPOST BPO;"Immeuble Axe de la Défense
+49.51 rue Louis Blanc
+92917 Paris La défense Cedex";Daniel KERJOUAN;maila.ayels@docapost.fr;17;17;16;15;16;17;18;17
+Schmitt;Mélanie;2018;S-Sciences;7;1;1;16,02;15,70;Laborie;Clément;Développement;Conception et développement d'une plateforme d'apprentissage ludique, mobile et adaptative pour botanistes amateurs;"Ce stage s'inscrit dans le cadre du projet ANR ReVeRIES, portant sur la mise au point d'outils informatiques de mise en valeur du ""patrimoine végétal"". L'objectif du stage est de développer un prototype d'application ludique en botanique, sous forme d'une application Web mobile";09/04/2018;22/06/2018;Le Mans Université;"52 rue des docteurs Calmette et Guérin, 
+53020 LAVAL";Pierre-Yves GICQUEL;pierre-yves.gicquel@univ-lemans.fr;14;16;17;16;18;18;19;18
+Garnier;Léa;2018;S-Sciences;10;1;2;15,97;16,97;Marfisi;Iza;Web;Internship frontend development;"Supporting a Tech-Lead on a project, including:
+- Assessing Business and Tech Requirements for Features
+- Technical PLanning
+- Writting, grooming and planning Tickets
+- Implementation and Maintenance of features";09/04/2018;07/07/2018;FLEXPERTO GMBH;"FLEXPERTO GMBH
+FRIEDRICHSTR. 58
+10117 BERLIN
+GERMANY";Caspar BAUER;caspar.bauer@flexperto.com;20;20;20;20;20;20;20;20
+Dupont;Noah;2018;S-Sciences;18;0;1;15,65;15,22;Laborie;Clément;Développement;Développement d'un jeu sérieux pour l'apprentissage;"-ré-ingéniérie d'un prototype déja développé
+-intégration de nouvelles fonctionnalités de jeu
+-développement de nouvelles fonctionnalités";09/04/2018;22/06/2018;Le Mans Université;"52 rue des docteurs Calmette et Guérin, 
+53020 LAVAL";Pierre LAFORCADE;pierre.laforcade@univ-lemans.fr;17;14;16;14;18;18;18;17
+Lefevre;Stéphanie;2019;S-Sciences;1;1;0;15,61;13,74;Oubahssi;Lahcen;Développement;Conception et réalisation d'un projet exemple complet pour l'outil MaTeLo;Conception et réalisation d'une solution complète permettant à un nouvel utilisateur MaTeLo de prendre en main l'application au travers d'un projet exemple. Ceci inclus la création d'un site web complet, du projet MaTeLo automatisant ses tests et la rédaction d'aide intégrée à l'application finale;08/04/2019;05/07/2019;ALL4TEC;"2 rue Ferdinand Buisson
+Batiment L
+53810 CHANGÉ";Tony HEDOUX;toh@all4tec.net;13;13;15;15;15;12;14;10
+Laurent;François;2019;S-Sciences;3;2;0;15,60;15,68;Djadja;Jean Delest;Développement;Conception et développement de fonctionnalités de reporting et de dashboard;Le but de cette mission est de faire des statistiques d'utilisation de la solution Shortways, ainsi que d'étudier de nouvelles possibilités d'exploitatio de ces données (machine learning...);08/04/2019;21/06/2019;SHORTWAYS;"106 Avenue Pierre de Coubertin
+53000 Laval";Olivier PIEDFROID;olivier.piedfroid@shortways.com;13;13;18;18;18;18;18;18
+Leroux;Louis;2020;S-Sciences;29;0;2;15,58;14,96;Oubahssi;Lahcen;Développement;Développement JAVA Modules Eclipse RCP Testing Tools;Les équipes de développement travaillent au sein de l’écosystème Eclipse RCP/Java. On y retrouve des outils permettant de vérifier qualité du code, des outils destinés à compiler des livrables de manière industrielle, et un outil permettant d’automatiser le déroulement des tests fonctionnels : Eclipse RCP Testing Tools. L’objectif du stage sera de développer des briques permettant d’améliorer l’interfaçage entre nos applications et cet outil d’automatisation.;11/05/2020;24/07/2020;ALL4TEC;"Rue Ferdinand BUISSON, Parc Ceres, 
+53810 CHANGÉ";Tony HEDOUX;tony.hedoux@all4tec.net;12;13;16;16;16;15;15;18
+Dubois;Anne;2019;S-Sciences;7;1;1;15,47;14,21;Djadja;Jean Delest;Web;Stage développement;Développement d'un plugin PHPStorm permettant de générer un projet Symfony - Langage Java;08/04/2019;21/06/2019;SARL SDA & JLE;"12 Avenue du Général Leclerc
+72000 LE MANS";Jérémie DARAULT;contact@agencej.fr;14;16;14;16;15;18;18;12
+Bertrand;Léo;2020;S-Sciences;33;0;2;15,43;16,13;Ernet;Bruno;Développement;Consultant JAVA SPRING HADOOP;"Intégré(e) au sein d’une équipe projet gérant les applications en lien avec les solution de gestion de campagnes IBM Marketing Software et Watson Campaign Automation, vous participerez à la réalisation des versions évolutives des systèmes, et serez amené(e) à intervenir sur les phases de conception technique, réalisation et validation de l’application.
+
+Les développements réalisés s’appuieront principalement sur les technologies suivantes : langages SQL, JavaScript, Java, Spring, paramétrage du progiciel IBM Marketing, HSQL (Hadoop), Oracle ODI (ETL)";04/05/2020;31/07/2020;CAPGEMINI TECHNOLOGY SERVICES;"7 rue Claude Chappe
+35510 CESSON-SEVIGNÉ";François LE DILHUIT;francois.ledilhuit@capgemini.com;15;15;17;17;17;14;16;16
+Guerin;Éric;2019;S-Sciences;21;1;0;15,42;15,44;Couland;Quentin;Mobile;Analyse et intégration de fonctionnalités sur un système Androïd existant;"Sujet parmi les deux suivants:
+- Développement d'une brique applicative Androïd permettant de transmettre une image sur un bus propriétaire. 
+- Mise en place d'une application Web portable intégrée dans un système Androïd.
+Précisions obtenues début décembre:
+- Validation d’intégration langue hébreu, russe… Cela peut paraitre basique mais il faut savoir que nous gérons de A à Z l’OS (Android) (et donc les claviers, les fichiers importés…). De plus, cela a un lien avec le 2ème sujet.
+- Développement d'une brique applicative Android permettant de transmettre une image sur un bus protocole propriétaire. L’image en question est le nom des joueurs encodé dans une image et interprétée en binaire de l’autre côté.";08/04/2019;21/06/2019;BODET SA;"Service Gestion du temps
+1 rue du Général de Gaulle
+493140 TRÉMENTINES";Yann BELLIARD;yann.belliard@bodet-timesport.com;16;18;17;17;18;18;14;17
+Roger;Lina;2021;S-Sciences;13;2;2;15,27;17,12;Oussema;Mahdi;Web;Stage de développement Web Full stack;Développement et amélioration d'une interface web de gestion d'un système de traçabilité mobile de prestations;06/04/2021;18/06/2021;XLConcept Corporation;"6 rue Descartes
+95330 DOMONT";Pascal Thomé;pascal.thome@xlconcept.fr;17;18;17;18;18;20;20;20
+Roger;Zoé;2018;S-Sciences;21;1;1;15,25;14,84;Oubahssi;Lahcen;Développement;Déploiement de l'intégration continue avec Jenkins au sein d'une équipe de développement logiciel organisé en AGILE (SCRUM);"-Mise en place du serveur
+-Etude de faisabilité, prototypage pour la création des tests automatisés";09/04/2018;20/07/2018;"STMICROELECTRONICS (Grand Ouest)
+";"9-11 rue Pierre-Félix Delarue 
+72100 LE MANS";Philippe DEFORGE;philippe.deforge@st.com;13;13;19;19;19;18;18;18
+Leclerc;Vincent;2019;S-Sciences;23;1;1;15,25;16,58;Couland;Quentin;Développement;Analyste développeur;"Sujet à définir en février:
+- Vous interviendrez sur le développement d’applications C# .net sous SharePoint,  
+- Vous réaliserez la conception et les tests, dans le respect des spécifications établies. ";08/04/2019;21/06/2019;VINCI ENERIGES SI;"Social - Direction SIMA
+24 rue Thomas Edison
+72 000 LE MANS";Romain AUBRIL;romain.aubril@vinci-energies.com;19;19;15;17;17;16;19;18
+Leroux;Clara;2018;S-Sciences;28;2;0;15,21;15,23;Laborie;Clément;Développement;Améllioration des fonctionnalités de l'outil d'ADDEGames (Assistance Design Tool for Digital Epistemic Games);"Le stage s'inscrit dans le cadre du projet ANR JEN.lab portant sur la conception des jeux epistémiques numériques (JEN).
+Dans le cadre de ce projet, l'équipe IEIAH du LIUM a développé un outil ADDEGames qui permet d'aider les enseignants à concevoir leurs jeux épistémiques numériques (JEN). L'objectif de ce stage est de continuer le développement et l'amélioration des fonctionnalités de cet outil.";09/04/2018;20/07/2018;Le Mans Université;"52 rue des docteurs Calmette et Guérin, 
+53020 LAVAL";Lahcen OUBAHSSI;lahcen.oubahssi@univ-lemans.fr;17;17;17;17;17;18;18;18
+Morin;Manon;2017;S-Sciences;16;0;2;15,20;16,04;Oubahssi;Lahcen;Base de données;Optimisation de requête SQL et transcription de fichier EXCEL ;"- Optimisation de requêtes SQL
+- Modification de package
+- Création de package SSIS pour les filiales
+- Analyse et transcription d'un fichier excel";10/04/2017;23/06/2017;SERAP INDUSTRIES SAS;"Route de Fougères
+53120 GORRON";Olivier ALLAIN;oallain@groupeserap.com;13;13;15;15;16;17;18;17
+Lambert;Pierre;2019;S-Sciences;29;0;0;15,19;13,65;Oubahssi;Lahcen;Test;Développments transverses dans l'équipe QA test et validation ;"Participer aux différents validation (manuelles et automatisées) outiller et développer les éléments de reporting et/ou de lancements de tests. 
+Améliorer le système d'automatisation des test, participer à la mise en place de la chaine d'intégration continue";10/04/2019;30/06/2019;FORCITY PLATEFORM;"4 Avenue des Peupliers
+35510 CESSON SEVIGNE";Pascale HUBERT;pascale.hubert@forcity.io;13;16;16;16;16;16;16;17
+Muller;Lucas;2021;S-Sciences;14;2;1;15,12;16,59;Laforcade;Pierre;Développement;Stage De développeur d'outils de gestion de centrale téléphonique VOIP Asterisk;Le stagiaire aura pour mission de développer un outil / plateforme web de gestion d'une centrale téléphonie VOIP Asterisk PJSIP avec pour finalité de pouvoir gérer l'ensemble des données / paramètres des centraux et de pouvoir permettre à un non initié à ce type de centrale de configurer / utiliser cette centrale.;06/04/2021;18/06/2021;LGTech SRL;"22 Rue Lairesse
+4020 Liège
+BELGIQUE";François Willems;francois.willems@lgtech.be;18;19;18;19;20;17;19;20
+Meyer;Hugo;2017;S-Sciences;20;2;2;15,02;16,63;Hamon;Ludovic;Base de données;Refonte de la synchronisation du datamart;"Refonte de la synchronisation de notre
+Datamart avec les acteurs de Bodet pour
+présentation des métiers.
+Simulation du quotidien de chef projet informatique";10/04/2017;23/06/2017;BODET SOFTWARE;"Boulevard Du Cormier
+49302 CHOLET CEDEX
+";Freddy CLENET;freddy.clenet@bodet-software.com;19;19;17;20;20;14;15;18
+Picard;Inès;2018;S-Sciences;29;2;2;14,90;15,33;George;Sébastien;Développement;Amélioration du système d'information des secteurs stockage/entreposage;"Au sein du département logistique industrielle, vous serez intégré au sein des équipes
+chargées de la gestion des entrepôts et des magasins. Vous serez chargé de l'amélioration 
+du système d'information de secteurs stockage/entreposage ""compte emploi""";09/04/2018;22/06/2018;MBDA;"Rond Point Marcel Henriot
+Route d'Issoudin,
+18 020 BOURGES";Patrick BERJAMIN;patrick.berjamin@mbda-systems.com;17;18;18;17;18;19;17;18
+Lucas;Amandine;2019;S-Sciences;67;0;2;14,89;13,81;Walkowiak;Yann;Mobile;Développement d'application web ou mobile;"Paticiper à la conception, développement, tests et mise en production de modules sur application web existante
+(qse.betterb.fr) + modules sur application mobile associée + participation refactoring
+Design UX nouveaux projets";15/04/2019;28/06/2019;BETTER B;"162 Rue Bernard Le Pecq 
+53000 laval";Nicolas BENOIT;bnicolas@betterb.fr;16;14;12;14;14;13;15;14
+Dupont;Axel;2017;S-Sciences;21;2;0;14,84;16,52;Hamon;Ludovic;Mobile;Mutation d’interfaces graphiques Android en Java Refonte des visuels sur écrans (HDMI) ;"Participer aux différentes phases du projet de 
+développement d'application haut niveau:
+- Mutation d'interfaces graphiques d'une application
+Androïd et JAVA";10/04/2017;23/06/2017;BODET SA;"route De La Tourlandry
+49340 TRÉMENTINES
+";Yann BELLIARD;yann.belliard@bodet.com;17;17;20;20;19;17;20;17
+Bonnet;Noah;2022;S-Sciences;5;0;1;14,78;13,64;Oubahssi;Lahcen;Test;Stage en Automatisation de Tests;"Analyser et comprendre les spécifications fonctionnelles et techniques des applications à valider. 
+Echanger avec les testeurs fonctionnels sur les objectifs des tests à automatiser. 
+Concevoir les scripts de tests automatisés simulant l’action du testeur. 
+Identifier des pré requis et jeux d’essais nécessaires à l’exécution des tests.
+Exécuter des campagnes de tests des campagnes de tests automatiques, identifier les écarts entre résultats observés et attendus. 
+Enregistrer les anomalies constatées avec l’ensemble des informations nécessaires pour la caractérisation de celles-ci suite à votre analyse et votre troubleshooting. 
+Fiabiliser et rendre plus robustes les scripts d’automatisation.
+Développement Java, C#, Pyhton, VBscript…
+Utilisation d’outils d’automatisation : Selenium, Robot Framework, Microfocus…
+Utilisation d’outils de remontée des anomalies : JIRA, Squash, TM
+Connaissance des chaînes d’intégration continue
+Gestion des expertises";04/04/2022;26/08/2022;Capgemini Technology Services;"187 Avenue du Haut Lévêque
+33600 PESSAC";Maxime BARDOU;maxime.bardou@sogeti.com;13;13;16;13;16;19;19;17
+Bertrand;Louis;2018;S-Sciences;36;0;0;14,73;14,59;Marfisi;Iza;Mobile;Mobile Development Internship;"Take part in the day-day activities of the mobile development team
+Assist senior members with the development of new app features
+Debugging testing and making app changes
+Work experience with both iOS and Androïd";09/04/2018;22/06/2018;SQUARE1 SOFTWARE LTD;"The Digital Hub
+10-13 THomas Street
+DUBLIN 8,
+D08 PX8H
+IRELAND";Roberto PRATO;roberto@square1.io;14;11;17;16;18;17;18;18
+Meyer;Romane;2020;S-Sciences;49;2;1;14,73;14,03;Ernet;Bruno;Développement;DÉVELOPPEMENT D’OUTILS DE GESTION D’UN RÉSEAU DE SIMULATEURS DE RÉALITÉ VIRTUELLE;Il sera demandé au stagiaire de développer des outils d'automatisation et d'aide au déploiement et à la maintenance d'un réseau composé de simulateurs de chirurgie et de différents ordinateurs et serveurs. Il sera notamment demandé de développer des interfaces graphiques de configuration, puis de concevoir une solution permettant l'application automatique des mises à jour ds logiciels de simulation.;06/04/2020;19/06/2020;HAPTIQUE ET REALITE VIRTUELLE;"21 Rue Ferdinand Buisson Batiment L
+53810 CHANGÉ";Pierre-Jean PETITPREZ;pierre-jean.petitprez@hrv-simulation.com;12;12;12;12;16;17;18;18
+Bertrand;Laetitia;2019;S-Sciences;68;2;0;14,73;16,40;George;Sébastien;Mobile;Modélisation et implémentation de mécaniques de jeu, dans une application web pour smartphone, destinée à l’apprentissage de la botanique;"Description succincte de la mission* :Dans le cadre du Projet ANR REVERIES, l’équipe IEIAH du LIUM a développé un outil web, nommé « Albiziapp », de « science citoyenne » permettant à quiconque de contribuer à des inventaires botaniques via son téléphone portable par l’identification des plantes et par l’inventaire géographique de ces plantes. Afin de renforcer la motivation, l’engagement et l’amusement des utilisateurs, ce stage propose de modéliser et d’implémenter des mécaniques de jeu à l’outil de science citoyenne, afin de renforcer l’aspect ludique des scénarios d’activités générés. 
+Objectifs du stage : 
+- la prise en main de l’outil Albiziapp
+- la recherche et l’identification des différentes mécaniques de jeu et de leurs classifications
+- la modélisation et l’implémentation d’une sélection de mécaniques de jeu simples
+Optionnel :
+- développement des mécaniques de jeu orientées « multijoueur » impliquant la coopération et/ou la compétition
+- et/ou du développement d’une méthode (voire un modèle) générique d’implémentation des mécaniques de jeu
+";08/04/2019;21/06/2019;Le Mans Université, Laboratoire LIUM;"IUT de LAVAL, bâtiment CERIUM²
+15 rue des docteurs Calmette et Guérin, 
+53000 LAVAL";Pierre-Yves GICQUEL;Pierre-Yves.Gicquel@univ-lemans.fr;18;17;19;18;17;20;20;19
+Roche;Inès;2020;S-Sciences;52;2;2;14,71;15,68;Oubahssi;Lahcen;Test;Programmation de l'automatisation de Tests d'applications mobiles;Tikeasy est une société Nantaise, qui réalise des solutions numériques simplifiées, en particulier à base de tablettes tactiles, à destination des séniors et personnes âgées ( solution ARDOIZ) . L'ensemble des logiciels à l'ergonomie simplifiée embarqué sur les tablettes est réalisé en interne et fait l'objet de mise à jour régulières. Les tests à réaliser à chaque mise à jour  pour les différents modèles du Parc client ( plus de 50 000 clients) sont nombreux et fastidieux. Grâce à l'outil Appium ( programmation Java) , l'objectif du stage est de réaliser l'automatisation des tests de certaines applications de TIKEASY à destination des tablettes. Ainsi, le stagiaire aura l'opportunité de concevoir , développer , tester et mettre en production ses réalisations. ;01/06/2020;14/08/2020;TIKEASY;"6 rue Rose Dieng Kuntz
+44300 NANTES";Edmond Billard;edmond.billard@tikeasy.com;15;16;18;18;18;18;18;20
+Petit;Océane;2018;S-Sciences;38;2;1;14,71;15,01;Ernet;Bruno;Développement;"Conception et développements pour l'optimisation et l'automatisation du traitement des flux de données du pôle prélèvements du laboratoire
+Interfaçage avec l'appliction de gestion du laboratoire";Spécifictions et développements pour la mise en place d'outils d'automatisation et d'optimisation de l'activité du pôle prélèvements: gestion et traitement des flux de données entre les données entrantes provenant des clients (planning de prélèvement) et les données sortantes. Interfaçage avec le logiciel de gestion. Objectif: supprimer les redondances et traitements manuels des données;09/04/2018-20/04/2018;30/04/2018-08/08/2018.;EHESP;"15 Avenue Du Professeur Léon Bernard
+CS 74312
+35043 RENNES CEDEX";Dominique VERREY;dominique.verrey@ehesp.fr;17;18;18;18;18;18;16;16
+Lemoine;Juliette;2018;S-Sciences;44;1;0;14,71;14,43;Couland;Quentin;Web;IHM pour l'aide à la gestion des mouvements de média de sauvegarde;L'objectif de la mission est de permettre l'allégement du temps passé actuellement manuellement en gestion des médias (bandes de sauvegarde) et contrôler que les robots soient suffisamment chargés. Le stagiaire développera en PHP autour des bases de données existantes avec interaction sur la robotique. Après compréhension du sujet, il pourra analyser le besoin en observant déja le code actuel et la base de données, rédiger les spécifications sur la partie complémentaire et développeur la solution qui aura été validée en amont;09/04/2018;22/06/2018;JOUVE;"1 rue du Docteur Sauvé, 
+53100 MAYENNE";Estelle PIEUCHOT-RENAUD;esrenaud@jouve.com;13;17;12;16;17;18;16;16
+Moreau;Sophie;2019;S-Sciences;69;1;1;14,61;15,43;Ernet;Bruno;Web;Save logs Php/MySQL;L'objectif de ce stage est définie et développer un modéle mathématique à partir de données technique standard permettant d'analyser les écarts-types sur des indicateurs liées au monitoring des data centers. Développement prévu en Php/MySQL sur une partie avec liberté laissée au stagiaire sur les langages de développement complémentaires;08/04/2019;21/06/2019;JOUVE;"1 Rue du Docteur Louis Sauvé
+53100 Mayenne";Erwan BUSUTTIL;ebusuttil@jouve.com;16;16;16;16;17;18;18;18
+Lambert;Manon;2020;S-Sciences;53;1;2;14,55;15,21;Couland;Quentin;Web;Développement et maintenance d'une applicaton web;"Le stagiaire interviendra sur une application développée par la société Optavis à destination de ses clients Groupements d’Employeurs. Cette application full-web permet notamment la gestion des candidatures et le traitement des CV entrants, la publication de documents à destination des salariés/adhérents du groupement, la signature électronique de documents (contrats de travail, avenants, convention de mise à disposition), le traitement des demandes d’absences des salariés et la saisie des relevés d’activités des salariés et des adhérents. Le stagiaire sera amené à développer aussi bien côté front (html, typescript, less) que back (c#).
+";15/06/2020;07/08/2020;Optavis;4 avenue des peupliers, bâtiment E, 35510 Cesson Sévigné;Laurent Hignet;laurent.hignet@optavis.fr;15;16;20;15;18;17;17;18
+Roux;Émilie;2019;S-Sciences;73;1;0;14,51;13,76;Djadja;Jean Delest;Web;Stage développement;Développement d'un plugin PHPStorm permettant de packager et déployer un projet Symfony - Langage Java ;08/04/2019;21/06/2019;SARL SDA & JLE;"12 Avenue du Général Leclerc
+72000 LE MANS";Jérémie DARAULT;contact@agencej.fr;16;15;16;15;15;8;14;12
+Duval;Anaïs;2019;S-Sciences;75;0;0;14,46;15,17;Laforcade;Pierre;Base de données;"Conception et réalisation d'outils professionnels automatisés
+L’essentiel de la mission consistera bien à créer des outils professionnels nécessitant des traitements automatisés, et plus particulièrement analyse des besoins, conception de l’outil, programmation en VBA (+ requêtes SQL dans certains cas), présentation à l’utilisateur final, réalisation des ajustements nécessaires. Il nous a semblé intéressant de diversifier les tâches proposées à Julien. C’est pour cette raison que nous avons envisagé de compléter ces activités par une rationalisation du site internet, qui avait à l'origine été développé en partie directement en html, et en partie via Wordpress. Le travail prévu ne concerne donc pas le contenu du site mais son uniformisation d’un point de vue technique. ";"- Amélioration du site internet de l'entreprise
+- Développement et optimisation d'outils métiers";08/04/2019;21/06/2019;FIGECAL;"Rue des Martinières
+53960 BONCHAMP";Nicolas PLANCHENAULT;n.planchenault@figecal.fr;15;15;16;16;17;19;18;18
+Petit;Mathis;2022;S-Sciences;19;1;2;14,45;15,71;Laforcade;Pierre;Développement;Développeur d'applications bancaires;Gestion de projet,  conception, développement,  mise en production et maintenance d'une application bancaire. ;04/04/2022;17/06/2022;Crédit Mutuel MABN;"43 boulevard Volney
+53000 LAVAL";Igor Sztarksztejn;igor.sztarksztejn@creditmutuel.fr;17;16;19;16;17;20;20;20
+Nicolas;Julien;2019;S-Sciences;89;1;2;14,34;16,27;Couland;Quentin;Mobile;Analyse et intégration des fonctionnalités sur un système existant;"Développement parmis les sujets ci-dessous, tous deux en lien avec une interface physique permettant de configurer des panneaux sportifs. 
+* ""Intégration langues sinistroverses"" : l'actuel pupitre possède un affichage grand écran en HDMI. Pour le moment l'affichage est géré en XML, et le but serait de le traduire en Java pour simplifier la modification en direct par le logiciel.
+* ""Application web portable"" : Pour l'instant, pour éditer le panneau, il faut être à proximité du pupitre. Ce sujet permetterait de réaliser un prototype d'application portable (android, ios) pour controller le pupitre à distance (en se connectant au réseau wifi du pupitre). De plus elle ne serait pas ""native"" comme une application android classique, car elle doit être très flexible. Elle sera donc orienté web.
+Précisions obtenues début décembre:
+- Mise en place d'une application web portable intégrée dans un système Android. Cette application, sur le principe d’un portail d’applications aura pour but de créer des équipes (sportives). Elle est « portable » car elle devra se lancer en fullweb comme sur un PC (copie sur clé USB, puis lancement d’un lien).
+";08/04/2019;21/06/2019;BODET SA;"Service Gestion du temps
+1 rue du Général de Gaulle
+493140 TRÉMENTINES";Yann BELLIARD;yann.belliard@bodet-timesport.com;16;17;17;17;18;15;17;15
+Lefebvre;Philippe;2019;S-Sciences;91;2;0;14,22;13,47;Vieillard;Nathalie;Développement;Analyste Développeur Stagiaire;"Audit des besoins fonctionnels liés aux outils de gestion internes à l'entreprise
+Rédacction des spécifications technique
+Réalisation des développements
+Tests applicatifs et mise en production";08/04/2019;26/07/2019;DIVALTO Amérique du Nord;"105-2325 Rue Centre
+Montréal, QC, H3K1J6
+CANADA";Lucas GOUJON;lgoujon@divalto.ca;14;14;16;16;16;14;17;18
+Petit;Mélanie;2021;S-Sciences;19;2;0;14,08;14,87;Laforcade;Pierre;Développement;Participation au développement d'un middleware applicatif créé en interne;Développement de nouveaux modules et optimisation de modules existants dans l'application à l'aide de l'atelier de génie logiciel Windev : compréhension du besoin utilisateur, programmation orientée objet en WLangage, y compris actions sur la base de données HFSQL, réalisation de l'interface utilisateur.;06/04/2021;18/06/2021;FIGECAL;"rue des Martinières
+53960 BONCHAMP LES LAVAL";Caroline TRUONG-FALLAI;c.truong-fallai@figecal.fr;16;16;16;14;16;14;15;12
+Robin;Valérie;2019;S-Sciences;100;1;0;14,03;14,61;Hamon;Ludovic;Web;Stage développement Web;"Evolution de l'outil d'affichage de communication dynamique.
+Réalisation d’évolutions sur notre application d’Affichage dynamique (Application développée sur la base du CMS Drupal) en développements Web (PHP, HTML, CSS, …). Notre application d’affichage dynamique permet de gérer et diffuser du contenu media (Vidéo, images, …) sur des écrans et depuis des Raspberry Pi.";08/04/2019;30/08/2019;FLEURY MICHON SA;"ZAE de la Gare
+85700 POUZAUGES";Ludovic PECATE;pecate.ludovic@fleurymichon.fr;16;16;16;15;17;16;18;20
+Gauthier;Lina;2018;S-Sciences;51;0;0;13,96;15,43;Oubahssi;Lahcen;Développement;Stagiaire informatique industrielle;Participe au développement d'applications haut niveau permettant le dialogue avec les éléments sous-jacents qui pilotent nos produits (panneaux de sport, interfaces de commandes);09/04/2018;22/06/2018;BODET;"route De La Tourlandry
+49340 TRÉMENTINES";Yann BELLIARD;yann.belliard@bodet.com;18;16;20;18;19;19;18;18
+Bertrand;Nathan;2021;S-Sciences;45;2;2;13,96;14,44;Oubahssi;Lahcen;Développement;Analyste Développeur .Net / Sharepoint;"Vous intégrerez l'équipe chargée des développements des applications ""Collaboratives"" utilisées au sein de VINCI Energies. 
+Au cours de votre stage :
+• Vous interviendrez sur le développement d’applications C# .net sous SharePoint, 
+• Vous réaliserez la conception et les tests, dans le respect des spécifications établies.";06/04/2021;31/07/2021;VINCI Energies Systèmes d'Information;"12 rue Pierre-Félix DELARUE 
+– Immeuble Bonnafé – Noxasud
+72000 Le Mans ";Alice LENOBLE;alice.lenoble@vinci-energies.com;14;13;13;14;13;19;19;20
+Picard;Maëlle;2021;S-Sciences;76;1;0;13,95;14,55;Ernet;Bruno;Web;Développement en Java de la partie back-end d'une application web orientée AP;"La plateforme iZi Family permet aux familles et aux professionnels de gérer leurs démarches administratives 100% en ligne.
+La partie back-end expose des API REST à la partie front-end développée sous Angular.
+L'objectif du stage sera, dans un contexte Agile, de contribuer à la conception et à la réalisation de la maintenance corrective et évolutive de la partie back-end, développée en Java (Spring). 
+Le stagiaire pourra être amené à intervenir sur les différentes couches applicatives.";06/04/2021;17/06/2021;iZi Family;"57, boulevard Demorieux
+72000 Le Mans";Jean-Philippe RIBEIRO;jpribeiro@izifamily.com;14;13;13;14;16;12;13;16
+Durand;Antoine;2021;S-Sciences;91;2;1;13,93;14,85;Oubahssi;Lahcen;Développement;Analyste Développeur - JAVA;"Vous intégrerez l'équipe chargée des développements des applications ""métier"" utilisées au sein de VINCI Energies.
+Au cours de votre stage, vous interviendrez sur :
+La réalisation d'application(s) et des tests associés,
+Vous serez également susceptible d'intervenir sur
+L’analyse des besoins
+Et la rédaction de spécifications fonctionnelles.";06/04/2021;13/08/2021;VINCI Energies Systèmes d'Information;"12 rue Pierre-Félix DELARUE 
+Immeuble Bonnafé – Noxasud
+72 000 Le Mans ";Denis GAUTHIER;denis.gauthier@vinci-energies.com;14;14;15;14;15;13;12;19
+Robin;Manon;2018;S-Sciences;66;0;1;13,91;15,14;Vieillard;Nathalie;Développement;Développement et maintenance d'une application;Développement et maintenance d'un moteur de calcul de pensions de retraite des régimes obligatoires;09/04/2018;22/06/2018;HARVEST S.A.;"Le Trident C
+42 Rue De Sarliève
+63800 COURNON-D'AUVERGNE";Renaud KLEIN;renaud-klein@harvest.fr;18;16;17;19;16;18;20;20
+Perrin;Sacha;2021;S-Sciences;95;0;1;13,89;14,34;Vieillard;Nathalie;Développement;Digitaliser le process de fabrication et la gestion du picking;Mise en place / refonte du système de saisie dans le process de fabrication et dans la gestion du picking pour maintenir l'efficacité de la tracabilité.;06/04/2021;02/07/2021;DIETAGRO SARL;"20 route de LAVAL
+53200 CHATEAU GONTIER / MAYENNE";Frédéric BLANCHOUIN;f.blanchouin@dietagro.fr;16;11;16;12;18;16;16;17
+Schmitt;Margot;2017;S-Sciences;30;2;1;13,87;13,86;Laborie;Clément;Web;Développeur Web;"Sous la responsabilité de notre responsable
+technique, le stagiaire rejoindra notre équipe de développeur
+et interviendra sur la conception de sites internet
+";10/04/2017;23/06/2017;ACREAT;"29 rue Du Puits Manger
+35000 RENNES";"Adrien LOYANT
+";loyant@acreat.com;12;14;15;14;16;17;16;18
+Fernandez;Hugo;2020;S-Sciences;54;1;2;13,81;14,82;Marfisi;Iza;Base de données;Stage Logistique : Amélioration du système d’information lié à la gestion des stocks H/F;"Au sein de la Direction Logistique, vous êtes intégré(e) à l’équipe en charge de la gestion des stocks du groupe. 
+
+L’objectif de votre stage est d’améliorer le système d’information des secteurs Stockage/Compte d’emploi. 
+
+Grâce à vos compétences, vous :
+•	Prenez en main le système ERP,
+•	Modernisez le référentiel des magasiniers en vous basant sur le système existant,
+•	Etudiez les solutions permettant de rendre dynamique les guides métiers,
+•	Etudiez un applicatif sur des PDA de gestion de matériel,
+•	Mettez en place la solution et l’applicatif.
+
+Vous communiquerez avec les différents utilisateurs des systèmes de gestion des stocks afin de cibler leurs besoins, ainsi qu’avec des informaticiens. ";06/04/2020;17/07/2020;MBDA FRANCE;"1 AVENUE REAUMUR
+92350 PLESSIS-ROBINSON
+OU Rond Point Marcel Hanriot
+Route d'Issoudin
+18020 BOURGES ??";Patrick BERJAMIN;patrick.berjamin@mbda-systems.com;13;14;15;12;16;17;17;17
+David;Eva;2021;S-Sciences;99;1;0;13,80;16,45;Oubahssi;Lahcen;Test;Testeur fonctionnel;"- Maîtriser fonctionnellement un sujet client, via un accompagnement et un transfert de compétences, 
+- Prendre en charge un périmètre de qualification 
+- Participer à l’élaboration de la stratégie de recette, préparation des jeux de données, préparation des scénarios de test 
+- Exécuter les tests et suivre la recette fonctionnelle ";06/04/2021;27/08/2021;CGI (ESN);"3 avenue belle fontaine
+immeuble ENERGIES
+35510 CESSON SEVIGNE";Pierre Alexandre LEPINE;pierre-alexandre.lepine@cgi.com;16;16;18;17;18;19;18;19
+Mathieu;Noah;2021;S-Sciences;100;1;2;13,70;15,84;Ernet;Bruno;Développement;Automatisation de tâches pour outiller l'équipe TAR;"L'objectif du stage est d'aider à l'automatisation de plusieurs tâches pour outiller l'équipe TAR (Test Acceptance and Release).
+- Création des branches release candidate en automatique, via l'API Gitlab (Tâche prioritaire)
+- Merge master automatique via l'API Gitlab
+- Exporter les quality gates des builds Gitlab, dans l'outil d'analyse de l'équipe TAR";06/04/2021;18/06/2021;MGDIS;"Allée Nicolas Le Blanc
+56000 VANNES";Erwan Le Bideau;lebideau-e@mgdis.fr;17;16;17;17;18;14;16;13
+Dubois;Antoine;2018;S-Sciences;82;2;1;13,68;14,34;Oubahssi;Lahcen;Développement;Stage en développement informatique;Portage d'une application client lourd en application web;09/04/2018;06/07/2018;FOUSSIER;"Z.A. Du Monne
+72700 ALLONNES";Julien MONNIER;j.monnier@foussier.fr;13;13;18;15;16;14;18;17
+Roy;Chloé;2019;S-Sciences;110;2;1;13,67;14,98;George;Sébastien;Mobile;Développement et optimisation application métier;"Optimisation application métier (outil générateur de groupes)
+Développement application Androïd de la ligue";08/04/2019;21/06/2019;LIGUE DE FOOTBALL DES PAYS DE LA LOIRE;"225 Rue De Beaugé
+72000 Le Mans";Bertrand CHESNEAU;bchesneau@fff.fr;16;16;17;17;17;15;17;17
+Vincent;Nathan;2018;S-Sciences;89;3;2;13,61;14,54;Barré;Vincent;Développement;"Développeur
+";"Développement/correctif d'anomalie et d'évolutions dans le cadre du projet CCSP (commission du contentieux du stationnement payant) :
+- Conception techniques
+- Réalisation des développements en Java
+- Réalisation de tests unitaires";16/04/2018;29/06/2018;ACCENTURE TECHNOLOGY SOLUTIONS;"68 Boulevard Marcel Paul
+44800 SAINT HERBLAIN";"Alexandre POIRIER (resp)
+Florent POIRAUD (encadrant)";alexandre.poirier@accenture.com;16;15;16;15;17;16;18;18
+Lemaire;Clément;2021;S-Sciences;101;2;3;13,57;14,96;Djadja;Jean Delest;Développement;refonte du logiciel Gestion de stock / Commandes;"Développement d'une application sous Access pour la partie ""gestion de stock et Commandes"" au vu de l'arrêt de notre AS400 supportant l'application actuel.";06/04/2021;18/06/2021;Hubbard sas;"Lieu Dit Mauguérand
+22800 LE FOEIL";Christophe HERNANDEZ;christophe.hernandez@hubbardbreeders.com;15;16;14;16;15;18;18;18
+David;Emma;2020;S-Sciences;67;1;3;13,56;15,43;Barré;Vincent;Développement;[FINOPS] Developpement d'un outil d'analyze et d'optimisation de cout sur un Cloud public;"Akeneo utilise Google Cloud Platform comme provider Cloud pour 'ensemble de ses solutions Cloud.
+Avec plus de 400 instances, il est important de suivre et d'automatiser les optimisations liées au cout de ses infrastructures.
+Le stagiaire aura comme mission de developper un outil permettant de piloter les différentes levier d'optimisation";06/04/2020;26/06/2020;AKENEO;"2 Place du Général Mellinet
+44100 NANTES";Gaël PRUDHOMME;gael.prudhomme@akeneo.com;17;17;18;18;18;18;18;20
+Moreau;Clément;2018;S-Sciences;96;1;1;13,55;13,83;Marfisi;Iza;Mobile;Stage développement mobiles;"Mise à niveau, amélioration et création d'application(s) mobile(s) à usage interne
+Il partipera à l'analyse de l'expression des besoins, à la rédaction du cahier des charges
+au développement, et à la mise en place des tests unitaires et fonctionnels et à la mise en production";16/04/2018;31/08/2018;CORDON ELECTRONICS;"14 Rue De La Violette
+22100 QUEVERT";Anaïs Perennec;anais.perennec@cordonweb.com;12;15;16;16;16;16;18;16
+Morin;Jade;2020;S-Sciences;74;1;3;13,52;15,21;Couland;Quentin;Web;Stage de développement d’un formulaire Web pour smartphone;L'entreprise dématérialise les formulaires internes. Vous développerez une interface qui sera utilisée par le personnel roulant et leurs smartphones. L'interface sera réalisée sur un moteur WEB;03/06/2020;18/08/2020;ANTOINE DISTRIBUTION;"6, square Nicolas APPERT
+49300 CHOLET";Benjamin GUERIN;b.guerin@antoinedistribution.fr;16;16;16;16;18;13;17;10
+Bertrand;Sarah;2022;S-Sciences;42;0;2;13,49;14,03;Ernet;Bruno;Développement;Stage – Projet INDUS DRCIF;"Indus DRCI est un projet qui s’inscrit dans une démarche d’industrialisation du Groupe Capgemini.
+Son objectif est de fournir des services réseaux et applicatifs aux projets sécurisés Confidentiel Industrie (CI) et Diffusion Restreinte (DR) sur le territoire français. Ces services sont proposés à une soixantaine de projets réunissant approximativement 1300 utilisateurs.";19/04/2022;01/07/2022;Capgemini Technology Services;"7 rue Claude Chappe
+35577 CESSON-SEVIGNE Cédex";Clément CONNAN;clement.connan@capgemini.com;16;15;16;17;17;17;18;18
+Girard;Léa;2017;S-Sciences;56;2;1;13,44;14,29;Barré;Vincent;Mobile;Développeur mobile Android au sein de la CAM ;"Concevoir et développer une application 
+sur smartphone (Android) pouvant fonctionner 
+en mode déconnecter permettant l'enregistrement 
+de contrat d'achat de céréales par les technicommerciaux chez les adhérents 
+de la coopérative";10/04/2017;23/06/2017;COOPÉRATIVE DES AGRICULTEURS DE LA MAYENNE;"89 rue Magenta
+53000 LAVAL";Arnaud SERRAND;arnaud.serrand@cam.fr;18;17;14;16;18;18;18;18
+Girardot;Lucas;2018;S-Sciences;111;0;3;13,42;12,94;Walkowiak;Yann;Mobile;Portage d'une application Windows Mobile 6.5 vers Androïd;Porter intégralement une application de suivi de défauts (contrôle qualité) en maraîchage de Windows Mobile 6.5 vers Androïd. (avec utilisation lecture codes à barres et appareil photo éventuellement) + Module d'échange en mode temps réel et/ou batch vers l'application Windows/MySQL;09/04/2018;22/06/2018;HESPERID;"Hotêl d'Entreprises - ECOPARC
+53410 LA GRAVELLE";Bruno LEGENDRE;bruno.legendre@hesperid.fr;15;15;16;15;16;17;17;17
+Giraud;Tom;2017;S-Sciences;74;3;2;13,40;14,98;Ernet;Bruno;Web;ALIA Alert Application WEB de remontée d’alertes ;"L'objectif est de proposer une solution (outils et développement) qui permette la remontée d'alertes et de défauts venant de différents composants présents dans une usine:
+- erreurs des process de fabrication
+- défauts des systèmes informatiques ou applicatifs
+Le système devra être configurable et permettre les remontées d'erreurs viaI différents type de média (mail, sms, interface, flux...) mais aussi permettre de définir une action, ou un mode opératoire.
+Ce système se basera sur différents mécanismes: 
+- Analyse de fichiers de logs
+- Analyse de base de données
+- Suivi des états du système & Réseau (HDD, i/o, RAM, réseaux...)
+Après une première étude qui a permis d'explorer et évaluer les différentes approches (solutions sur étagères, logicielles ou ""supervision"", développement d'une nouvelle application), l'objectif sera, à l'issue d'une validation (technique et financière), de mettre en oeuvre la solution choisie, dans le cadre de démonstrateur
+";10/04/2017;30/06/2017;OET;"878 Avenue Des Champs Blancs
+35510 CESSON-SEVIGNE";Adrien CARRE;acarre@oet.fr;17;14;17;16;18;17;17;17
+Lefevre;Lisa;2020;S-Sciences;84;3;3;13,31;15,78;Walkowiak;Yann;Développement;Participation à l'évolution d’un outils interne permettant la gestion (modélisation, analyse d'impact, supervision, ...) des échanges inter-applicatifs;"Les nouvelles fonctions à développer concerne la modélisation des flux et un début de fonction d'analyse d'impact. En effet aujourd'hui ces opérations se basent sur un ensemble de fichiers Excel et il est urgent de le moderniser. Coté aspects techniques les développements concerneront (liste non exhaustive et pas forcément tout le temps du stage) :
+-          Gestion de données (BDD et interfaces de saisies) : applications, interfaces, API, fichiers échangés
+-          Interfaces graphiques évoluées : mapping et association de données entre elles via drag&drop, affichage dynamique de graphes, …
+-          Exports : Excel, PDF, …";20/05/2020;28/08/2020;LACTALIS;"10 rue Adolphe Beck
+53000 LAVAL";Cédric BARBIN;cedric.barbin@lactalis.fr;19;20;20;20;20;20;20;20
+Sanchez;Margaux;2020;S-Sciences;98;0;3;13,27;14,69;Djadja;Jean Delest;Web;Développement Informatique: Transformation Digitale;Participation au développement et à l'amélioration d'applications web (système de suivi de pointage d'heure...);27/04/2020;19/06/2020;VEZIM;"2 place saint Germain
+35000 RENNES";Pascal VERON;pveron@cyberbrain.net;15;14;16;14;16;18;18;18
+Martin;Juliette;2017;S-Sciences;75;3;0;13,27;14,08;George;Sébastien;Développement;"Etude et Réalisation d'une application
+offrant des services de cartographie unifiés";"Participer à la conception, la réalisation et
+la mise en oeuvre d'une application visant
+à offrir aux autres applications un service
+de localisation cartographique unifié";10/04/2017;23/06/2017;GROUPAMA CENTRE-ATLANTIQUE;"2 avenue Limoge
+79000 NIORT";Frédéric MASSON;fmasson@groupama-ca.fr;14;13;14;13;15;16;18;18
+Schmitt;Clément;2020;S-Sciences;104;0;1;13,24;15,15;Hamon;Ludovic;Développement;Réalisation d’IHM pour un système d’analyse du mouvement;Le stagiaire aura à charge de développer deux interfaces pour un système d'analyse de mouvement, permettant de régler les paramètres des différents algorithmes. Les tâches attendues sont les suivantes : familiarisation avec les concepts propres au système, appropriation des bases de code, réalisation de maquettes d'interfaces, proposition de bibliothèques pour coder la/les interface(s), réalisation de l'interface, intégration du nouveau code à l'existant, tests de l'interface. Une expérimentation pourra être conduite afin de vérifier l'utilisabilité des interfaces développées.;06/04/2020;19/06/2020;Le Mans Université, Laboratoire LIUM;IUT de LAVAL, bâtiment CERIUM², 15 rue des docteurs Calmette et Guérin, 53 000 Laval;Quentin COULAND;quentin.couland@univ-lemans.fr;17;15;17;15;15;18;19;16
+Sanchez;Zoé;2021;S-Sciences;111;3;1;13,23;14,99;George;Sébastien;Développement;Outillage autour du logiciel de Paie;"Découvrir le processus de développement d’une fonctionnalité.
+La première fonctionnalité a implémenter sera un import de données des salariés du logiciel de Paie à partir d’un fichier Excel/csv.
+-	Développement Java
+-	Utilisation des outils de développement
+-	Utilisation de la forge logicielle";06/04/2021;25/06/2021;BODET SOFTWARE;"Boulevard du Cormier - CS 40211
+49302 CHOLET Cedex";Eric CHAPLET;eric.chaplet@bodet-software.com;18;18;18;18;18;16;17;16
+Lefevre;Louise;2022;S-Sciences;9,00;0;1;13,22;15,26;Oubahssi;Lahcen;Base de données;Analyse et implémentation d'une solution de synthèse de données avec l'API Google Charts;Dans un premier temps, une analyse de l'API Google charts est à réaliser afin d'en dégager les possibilités d'implémentation et de représentation des données de nos dossiers utilisateurs (veille / poc). Ensuite, la définition précise du besoin sera établie entre le Product Owner et le stagiaire afin d'en réaliser l'implémentation (CdC). Il s'agit ici de remplacer la représentation de données actuelle opérée par jcharts par une technologie plus flexible et mieux maintenue, ainsi que d'ajouter aux fonctionnalités proposées aujourd'hui de nouvelles possibilités. Le stagiaire sera inclus dans une équipe de développement qui l'accompagnera tout au long de sa mission sur les stratégies d'implémentation et les explications du code existant où se décriront les évolutions à implémenter par le stagiaire.;04/04/2022;01/07/2022;Comptacom;"247 Avenue des français libres 53000 Laval
+53000 LAVAL";Aymeric FABIAN;aymeric.fabian@compta.com;17;17;17;17;17;18;16;18
+Mercier;Noah;2017;S-Sciences;90;2;2;13,20;14,31;Laborie;Clément;Développement;Development Internship (mobile) With Evros Technology Group ;"The interne will carry out design, support and maintenance of various applications. 
+The majority of the tasks will involve developping  and reviewing code. There 
+will be a mix of work across different types of application. Web application, 
+Mobile and Tablet applications that integrate with various web services";10/04/2017;23/06/2017;HIBERNIA SERVICES Ltd (T/A Evros Technology Group);"Block AA
+Cherrywood Business Park
+Loughlinstown
+Dublin 18
+IRELAND";Andrew TAYLOR;andrew.taylor@evros.ie;16;14;15;14;18;20;20;20
+Leroy;Léa;2017;S-Sciences;93;0;0;13,17;13,67;Hamon;Ludovic;Développement;Amélioration de la collaboration et du partage de code source au sein du Bureau d’Etude ;"- Mise en place d'une interface permettant la
+visualisation de code source (GIT)
+- Mise en place d'un outil de gestion de contenu
+collaboratif type wiki et en assurer l'administration";10/04/2017;23/06/2017;BODET SA;"route De La Tourlandry
+49340 TRÉMENTINES
+";Yann BELLIARD;yann.belliard@bodet.com;17;14;17;14;13;16;17;17
+Robin;Hugo;2020;S-Sciences;105;2;1;13,11;15,79;Laborie;Clément;Web;Développement d'une interface front et back web;"La mission principale consistera en l'élaboration d'un back office et d'un front de démonstration de notre micro-framework Monofony qui s'appuie sur Symfony et Sylius.
+
+Le stagiaire nous aidera à concevoir cette démonstration qui utilisera de la réservation, des machines à états, de la taxonomie etc
+Nous lui apprendrons également à développer en TDD/BDD avec des tests fonctionnels (phpspec et phpunit) et end2end (Behat/Selenium). Nous lui ferons faire des pull-request et il pourra ainsi monter en compétence rapidement en faisant à la fois du code simple, lisible et de qualité.";11/05/2020;24/07/2020;MOBIZEL;"9 rue de Suède
+35000 RENNES";Loïc FRÉMONT;loic@mobizel.com;18;18;18;16;16;12;14;15
+Pierre;Théo;2021;S-Sciences;116;1;2;13,08;14,97;Ernet;Bruno;Développement;STAGE – Développeur(se) Logiciel – H/F;"L’ensemble de votre projet consistera à développer une application de remplacement pour assurer une continuité de service, Dans le cadre du remplacement d’un logiciel obsolète. activités confiées :
+• Recueillir le besoin Utilisateur
+• Rédiger des spécifications fonctionnelles
+• Développer  l’application
+• Déployer l’application
+• Rédiger des Fiches Méthodes / Outils associée";06/04/2021;23/07/2021;NAVAL GROUP;"AVENUE DE CHOISEUL
+56100 LORIENT";FOURDAN Johann;johann.fourdan@naval-group.com;17;16;17;17;18;15;17;18
+Meyer;Sarah;2017;S-Sciences;108;2;3;12,95;14,79;Laborie;Clément;Développement;"Conception et réalisation d'un outil de 
+génération automatique de documentation 
+d'un projet Python avec Sphynx";"Conception et réalisation d'un outil de 
+génération automatique de documentation 
+d'un projet Python avec Sphynx";10/04/2017;23/06/2017;ORANGE SA;"4 rue Du Clos Courtel
+BP 91226
+35510 CESSON-SEVIGNE";Alexis KOALLA;alexis.koalla@orange.com;16;14;18;16;18;20;18;19
+Henry;Anna;2017;S-Sciences;109;2;3;12,94;14,05;Champalle;Olivier;Web;Stage en développement web chez Initiatives  ;"Développement de sites et d'applicatiions web
+en collaboratio avec l'ensemble de l'équipe web.
+Mise à jour des sites web existants.
+Référencement";10/04/2017;23/06/2017;DMP INITIATIVES;"10 Avenue Georges Auric
+72021 LE MANS CEDEX 2";Nicolas DROUIN;nd@initiatives.fr;15;15;17;16;17;17;18;16
+David;Léo;2018;S-Sciences;116;1;3;12,93;12,16;Laforcade;Pierre;Développement;Développeur informatique;"Programme pour smartphone Androïd avec:
+- création animations 3D
+- amélioration de la fonction existante ""relevé de compteur""
+- ajout de la fonction ""Alertes"" syncrhonisés avec le serveur
+- ajout de la fonction ""Lectures des historiques"" sous formes de courbes
+";09/04/2018;22/06/2018;MIV-SOFT;"5 Rue MIGNOT
+53200 CHATEAU-GONTIER";Didier MENANT;d.menant@miv-soft.com;11;9;15;11;14;16;15;15
+David;Paul;2022;S-Sciences;12;0;2;12,90;14,09;Laforcade;Pierre;Développement;Développement Java H/F;"Encadré et accompagné par ton tuteur, tu intègres une équipe
+projet et participes
+aux missions suivantes :
+• Analyse et conception de fonctionnalités
+• Réalisation des développements back et front, paramétrage
+et déploiement
+d’applications Java/J2EE
+• Rédaction et déroulement des plans de tests, automatisation
+• Correction des anomalies, en appliquant les normes qualité en vigueur.
+Pendant toute la durée de ton
+stage, les experts CGI t’accompagnent et te
+permettent de progresser techniquement. Tu acquiers une solide expérience
+professionnelle en IT.";04/04/2022;30/06/2022;CGI;"9 boulevard Ampère
+BP 10727 
+44481 CARQUEFOU CEDEX"; Seif-Eddine EL HAIMER;seif-eddine.el.haimer@cgi.com;17;15;18;16;18;15;15;18
+Blanc;Jade;2020;S-Sciences;107;2;1;12,87;13,08;Laforcade;Pierre;Développement;Conception, développement et évolution des produits Shortways;"Le but de cette mission est d'intégrer le stagiaire à notre équipe de Recherche et Développement. La mission comprendra des phases d'analyse (définition du besoin), de développement, de tests et d'intégration. Le stagiaire sera amené à travailler sur les différentes parties de notre solution logicielle ainsi que ses différents langages : ""front"" (Javascript), serveur (Scala), base de données (MySQL, Redis), infrastructure (Docker, Kubernetes).";11/05/2020;24/07/2020;SHORTWAYS;"106 Avenue Pierre de Coubertin
+53000 LAVAL";Pierre TIJOU;pierre.tijou@shortways.com;12;12;12;10;11;14;17;19
+David;Romane;2017;S-Sciences;112;2;3;12,87;14,28;Ernet;Bruno;Développement;Contribution à l’amélioration du l’application de recrutement Beetween. ;"Maintenance, conception, développement
+et documentation de fonctionnalités sur la plateforme
+SaaS de gestion des recrutements. Intervention
+sur les couches présentation/métier/bdd
+";10/04/2017;21/08/2017;BEETWEEN;"2 Rue Saint Guillaume,
+35000 RENNES";Pierre MUSET;pmuset@beetween.com;13;10;11;12;14;18;17;19
+Picard;Théo;2017;S-Sciences;115;3;2;12,85;14,65;Champalle;Olivier;Développement;Développement d'IHM avec Polymer;"L'objectif du stage est de développer une web application
+pour téléphone mobile (serious game) dans le domaine de la botanique.
+La technologie utilisée sera Polymer";10/04/2017;23/06/2017;LABORATOIRE D'INFORMATIQUE DE L'UNIVERSITÉ DU MAINE (LIUM);"54 rue des Docteurs Calmette et Guérin
+53000 LAVAL";Sébastien GEORGE;sebastien.george@univ-lemans.fr;17;16;16;15,5;15;15;17;16
+Gauthier;Eva;2021;S-Sciences;117;1;3;12,82;14,55;Walkowiak;Yann;Développement;Stage - Développement du logiciel STORM;Dans le cadre du développement du logiciel STORM utilisé par le laboratoire des obsolescences la réalisation de différentes fonctionnalités (import de données stocks de l’ERP SAP, gestion des profils utilisateur ou autre suivant état des développements à la date d’exécution du stage). Après collecte du besoin utilisateur vous rédigerez les spécifications, assurez le codage et la validation, puis le déploiement sur la base de production.;06/04/2021;18/06/2021;THALES SIX GTS FRANCE;"85 Rue Emile Brault 
+53005 LAVAL CEDEX";Philippe JARROT;megane.lajmi@thalesgroup.com;15;15;19;16;19;17;18;19
+Henry;Ma;2018;S-Sciences;118;0;0;12,81;13,98;Ernet;Bruno;Mobile;Maquettage et développement applications IOS;Préparation de maquettes d'applications iOS dans le domaine de l'évènement (uScan, rendez-vous, mettingRoom, eventOrganizer) à l'aide des outils de type Bamsamiq, PaintCode & XCode puis concrétisation du développement de l'application complète uScan en Vue d'une mise à disposition sur l'appStore;09/04/2018;22/06/2018;NETEXPO;"Centre d'Affaires
+Zone Industrielle des Basses Forges, D929
+35 530 NOYAL SUR VILAINE";Gaël FOULON;gael@netexpo.fr;16;16;17;17;17;17;19;18
+Morel;Maxime;2017;S-Sciences;116;3;2;12,77;13,71;Laforcade;Pierre;Développement;Stage développeur informatique;"Analyse, conception et mise en place d'un système logiciel
+pour la gestion des clients et les contrats en cours
+au sein de la société ADG.
+Developpement de la base SQL et du logiciel sous Visual Studio .NET";10/04/2017;23/06/2017;ADG SOFTWARE ENGINEERING;"57 Rue De La Crochardière
+72000 LE MANS";Gaëlle DELOUCHE;gaelle.delouche@adg-software.fr;11;11;12;10;13;18;18;20
+Guillot;Eva;2021;S-Sciences;129;0;0;12,74;13,92;Ernet;Bruno;Développement; Stage informatique de conduite de process;"Participation au développement d’un projet informatique en relation avec l’industrie céréalière.
+La mission consiste à prendre en charge un projet informatique suite à une demande client, de participer à la présentation d’affaires, de concevoir/développer/paramétrer les logiciels, réaliser les tests et participer au déploiement de la solution.";06/04/2021;18/06/2021;OET;"1 Route du Gacet
+35830 BETTON";Eric SAULAIS;esaulais@oet.fr;17;16;18;18;18;17;17;18
+Perrin;Hugo;2018;S-Sciences;122;0;2;12,73;14,45;Laforcade;Pierre;Développement;Développement outil informatique SRC 2;"Développement de la version 2 de l'outil informatique SRC. L’outil SRC, Suivi Remarque Client a besoin d’inclure de nouvelles fonctionalites :
+- Pouvoir modifier le statut d’une remarque : Aju => elec par ex
+- Pouvoir modifier le contenu d’une  remarque en gardant l’historique
+- Pouvoir imprimer selon desiderata : Selon « client », par cellule /station/type
+Tout cela engendre une nouvelle version de l’outil";09/04/2018;13/07/2018;Airbus (HELICOPTERS);"Airbus helicopters  
+Batiment H4 FAL NH90 
+Aeroport International Marseille Provence 
+13700 MARIGNANE";Jean Marc PELLEGRINO;jean-marc.pellegrino@airbus.com;17;17;18;16;18;19;19;19
+Lemaire;Mathis;2018;S-Sciences;127;3;3;12,71;13,62;Vieillard;Nathalie;Développement;Développement d'un logiciel JAVA J2EE/WEB/SQL;Développement d'un module d'édition d'indicateurs de volumétrie d'éléements dans une base de données et de mesure de fiabilité des infos.;09/04/2018;22/06/2018;THALES;"85 Rue Emile Brault
+53000 Laval";Philippe MALLET;philippe.mallet@thalesgroup.com;20;17;18;15;16;17;17;18
+Girardot;Maxime;2021;S-Sciences;130;3;0;12,70;14,12;George;Sébastien;Web;Développement Web sur notre plateforme collaborative Acollab;Maxime travaillera principalement sur notre plateforme collaborative Acollab. Il fera le développement de nouvelles fonctionnalités en Java, Spring, JSF, Primefaces. Il sera peut être aussi amené à travailler sur d'autres projets pour nos clients selon les besoins à cette époque.;06/04/2021;27/08/2021;AKELIO;"7 RUE CAMILLE PISSARRO
+72100 LE MANS";Guillaume LOUVEL;louvel@akelio.fr;14;15;17;15;16;12;12;15
+Morin;Thibault;2021;S-Sciences;139;0;2;12,65;13,46;Oubahssi;Lahcen;Web;Développement et intégration d'une application d'analyse de la pratique enseignante.;"Maîtriser les processus d'enseignement est devenu aujourd'hui un objectif clé de l'éducation. Dans le supérieur, la tendance à l'utilisation des systèmes de gestion de l’apprentissage (Learning Management System, LMS) se répand maintenant rapidement, et son accélération est sans commune mesure cette année passée. La plupart des universités offrent des LMS comme solution technologique “one size fits all” pour tous les enseignants de toutes les disciplines [1], afin d’assurer l’amélioration continue des processus d’enseignement et d’apprentissage.
+Malgré cette tendance croissante à utiliser un LMS pour faciliter les activités éducatives, de nombreux enseignants éprouvent de grandes difficultés pour concevoir des apprentissages pertinents pour leurs étudiants. Ceci est principalement dû aux divers problèmes techniques, au manque d'intégration et de temps [2]. À cet effet, il est nécessaire que l’enseignant puisse s'engager dans une activité d’apprentissage afin d'améliorer son usage du LMS [3].
+Dans cette perspective, nous souhaitons proposer un outil de support à destination : (i) des ingénieurs pédagogiques, pour leur permettre de détecter des enseignants particuliers sur lesquels porter une attention (enseignants maîtrisant la plateforme ou ayant besoin de formation); mais également aux (ii) enseignants eux-mêmes, pour leur permettre de s’auto- évaluer, se situer par rapport aux autres, et de s’engager dans un processus d’apprentissage autonome ou par les pairs.
+L'objectif de ce stage est de contribuer à la réalisation de l'outil mentionné ci-dessus. Il s’agit donc d’une mission duale qui vise à :
+1. Mettre en place, côté serveur, l’architecture logicielle garante de la sécurité, incluant une authentification intégrée dans l’université et la gestion des autorisations ;
+2. Définir la mise en forme globale de l’application web, et les choix graphiques principaux, dans une approche orientée composant.";12/04/2021;25/06/2021;Le Mans Université, Laboratoire LIUM;"52 Rue des Docteurs Calmette et Guérin BP 2045 
+53 020 LAVAL CEDEX 09";Rémi Venant;remi.venant@univ-lemans.fr;14;13;14;14;12;15;14;18
+Roy;Emma;2018;S-Sciences;160;2;0;12,60;13,76;Vieillard;Nathalie;Développement;Création d'une application d'état du camion avant/après réparation;"Création d'une application de gestion d'entrée/sortie de véhicule après réparation
+Stockage de données applicatives dans la base local avant envoi sur le réseau";09/04/2018;29/06/2018;SCANIA FRANCE;"3 Boulevard De L'Industrie
+B.P. 30106
+49001 ANGERS CEDEX 01";Khalid LASRI;khalid.lasri@scania.com;16;14;17;14;15;13;13;15
+Gauthier;Clément;2020;S-Sciences;129;0;0;12,59;11,21;Laforcade;Pierre;Développement;Développement des objets virtuels pour assister la scénarisation des activités pédagogiques orientées réalité virtuelle;"Nous souhaiterions dans le cadre de ce stage continuer le développement et l’amélioration des fonctionnalités d’un éditeur existant (orienté RV) afin de l’adapter aux nouveaux besoins des enseignants.
+Le stage pourra s'organiser de la manière suivante :
+la prise en main de l’existant (l’éditeur et les objets virtuels existants)
+Amélioration des  fonctionnalités de l’éditeur existant
+Développement d’exemples d’objets pédagogiques virtuels
+Test des objets (RV) développés via la mise en place des situations pédagogiques dans un EVAH.";06/04/2020;17/07/2020;Le Mans Université, Laboratoire LIUM;IUT de LAVAL, bâtiment CERIUM², 15 rue des docteurs Calmette et Guérin, 53 000 Laval;Lahcen OUBAHSSI;lahcen.oubahssi@univ-lemans.fr;9;7;10;7;10;19;19;19
+Dufour;Sabrina;2019;S-Sciences;142;0;3;12,59;13,16;Hamon;Ludovic;Web;Développeur web;Participation au développement et à l'amélioration d'applications web (système de gestion de note de frais...);08/04/2019;21/06/2019;VEZIM SARL;"2 Place Saint Germain
+35000 RENNES";Pascal VERON;pveron@cyberbrain.net;15;14;11;14;15;18;18;20
+Moreau;Juliette;2020;S-Sciences;133;3;3;12,54;12,95;Barré;Vincent;web;Stage développeur applications web;"Projet principal amélioration d'une application web mériter ""outil générateur de groupe"" ( 	Prises en compte de paramètres supplémentaires, Revoir la méthode de calcul des kilomètres, ajout fonction tirage de coupe ) ->  Projets secondaires : Légères améliorations sur notre application mobile ( android - ios) ";06/04/2020;19/06/2020;LIGUE DE FOOTBALL DES PAYS DE LA LOIRE;"225 rue de beaugé 
+72000 LE MANS";Bertrand CHESNEAU;bchesneau@fff.fr;10;13;14;15;16;16;17;19
+Philippe;Mathéo;2022;S-Sciences;33;1;3;12,53;;Vieillard;Nathalie;Développement;Stage en développement informatique;Le stagiaire sera rattaché au service applicatif de la direction des systèmes d'information. L’ objectif de ce stage est de participer au développement d'une application web intranet avec le language .net qui sera utilisé par les salariés interne de Ravinala Airports.;09/05/2022;09/08/2022;RAVINALA AIRPORTS;"Ancienne tour de contrôle , Ivato Aéroport
+Antananarivo 105 
+Ivato
+Madagascar";Andry RANDRIAMANANTENASOA;andry.randriamanantenasoa@ravinala-airports.Aero;17;16;16;16;16;16;15;13
+Caron;Nicolas;2019;S-Sciences;151;0;0;12,47;15,19;Laborie;Clément;Web;Developpement informatique pour DUT;Développement et déroulement d'application web et plus particulièrement état des lieux pour l'administration d'immeubles;08/04/2019;21/06/2019;SAS ADB INFO;"1 rue de la Croix ététée
+35460 SAINT BRICE EN COGLES
+MAEN ROCH";Renaud DUGARIN;contact@adbinfo.fr;17;15;20;15;18;17;18;20
+Brun;Zoé;2020;S-Sciences;136;0;0;12,43;15,49;Walkowiak;Yann;Développement;Développement d'un système de production de traces et de visualisation;"Le jeu sérieux ""Escape it!"" ne dispose pas actuellement de fonctionnalités de traçage et de visualisation des activités d'apprentissage. La mission principale du stage consistera à développer ces éléments.";06/04/2020;19/06/2020;Le Mans Université, Laboratoire LIUM;IUT de LAVAL, bâtiment CERIUM², 15 rue des docteurs Calmette et Guérin, 53 000 Laval;Pierre LAFORCADE;pierre.laforcade@univ-lemans.fr;16;16;20;20;20;17;17;17
+Garnier;Alexandre;2021;S-Sciences;140;2;1;12,38;14,66;Marfisi;Iza;Web;Développeur Web;"Participation au développement et à l'amélioration d'applications web.
+Langages utilisés : PHP, MySql, JavaScript, CSS, Git";06/04/2021;18/06/2021;VEZIM;"2 place saint Germain
+35000 RENNES";Pascal Véron;pveron@cyberbrain.net;18;17;16;15;17;18;18;18
+Thomas;Margot;2022;S-Sciences;17;0;0;12,35;13,43;Hamon;Ludovic;Développement;Stage en développement informatique;"Intégrer une équipe de développement chez un éditeur de logiciel :
+1.	Etude et Réalisation de fonctionnalités Xloan 
+Participer à l’étude et à la réalisation de fonctionnalités des progiciels de la suite Xloan.
+Participer, dans le cadre de la road map technique à des travaux d’optimisation et de qualité de code. 
+
+2.	Développer l’APIsation du produit
+Xloan développe activement des API pour coller à sa stratégie. Participer à la conception et à la réalisation d’API rest.";04/04/2022;17/06/2022;OPEN;"10 rue du Président Edouard Herriot
+44000 NANTES";William VOGEL;william.vogel@open-groupe.com;15;16;17;16;20;16;18;16
+Fernandez;Eva;2020;S-Sciences;157;1;0;12,31;13,82;George;Sébastien;Web;Développement d'une interface web pour organiser des tournées de livraison en relation avec une base de données (Sage X3);En remplacement d'une solution actuelle vieillissante, visualiser sur une carte des commandes à livrer, en connexion (services web) avec l'ERP X3 en place dans l'entreprise, de manière à avoir une situation en temps réel. Pouvoir grouper ces commandes par lot en fonction de leur situation géographique, dans la mesure du possible proposer un itinéraire en s'appuyant par exemple sur Open Street Map, et retourner le groupe ainsi constitué dans l'ERp afin d'y enregistrer une tournée de livraison.;06/04/2020;19/06/2020;RIAUX escaliers;"Vaugarny 
+35560 BAZOUGES LA PEROUSE";Jean-François MENARD;jfmenard@riaux-escaliers.fr;12;15;16;15;14;14;16;18
+Brunet;Manon;2021;S-Sciences;154;1;3;12,28;13,88;Barré;Vincent;Web;Cartographie applicatives;Développer une solution WEB répertoriant les applications développées par le service développement (Serveurs, Environnements Dev, qualification, production) avec le détails des OS , des versions.;06/04/2021;18/06/2021;CPAM de Loire Atlantique;"9 rue Gaëtan Rondeau
+44958 NANTES";Alexandre Defebvre;alexandre.defebvre@assurance-maladie.fr;13;16;14;15;17;14;20;15
+Marchand;David;2019;S-Sciences;165;3;0;12,23;14,45;George;Sébastien;Base de données;Développement d'une application liées à l'inventaire informatique du SI industriel;"* Développer sous MS ACCESS 2013 une application de suivi de la qualité des données de la base existante ""inventaire informatique industrielle du CNPE""
+* Développer sous MS ACCESS 2013 une application sur tablette Windows de gestion d'inventaire d'informatique industrielle du CNPE
+* Maîtrise des droits SI";08/04/2019;21/06/2019;EDF CNPE DE CIVAUX;"Route de la Centrale
+B.P. 64
+86320 CIVAUX";Jean-Olivier BOURSIAC;jean-olivier.boursiac@edf.fr;16;16;18;18;18;16;15;18
+Laurent;Lucas;2017;S-Sciences;158;1;0;12,23;13,70;Laforcade;Pierre;Développement;Digitalisation des salles de pause de Carrefour Supply Chain;"Création d'une application sous java dans un environnement Windows
+. Cette application est à destination des opérateurs en salle de pause.
+Elle permet d'accéder à de l'information simplement et de manière modernisée";10/04/2017;23/06/2017;CARREFOUR SUPPLY CHAIN;"Boulevard D'Estienne D'Orves
+72000 LE MANS";Olivier BLOT;olivier.jean.blot@carrefour.com;14;12;12;13;14;18;18;19
+Rousseau;Sylvie;2019;S-Sciences;184;0;3;12,17;13,79;Barré;Vincent;Développement;Concepteur logiciel;"Conceptions logicielle appliquée aux système d'acquisition pour les activités d'essais sur bancs ou à bord.
+Le contexte est l'informatique au sein des essais de systèmes de propulsion, sur banc d'essais (en usine) ou à bord des navires. Il y a 2 domaines dans l'informatique dite de ""Mesure"": l'acquisition des données (systèmes et logiciels temps réels => enregistrements) et l'analyse (entrepôts de données, Big Data, traitement du signal, ...).
+Le stagiaire travaillera sur le domaine acquisition de données. L'objet du stage est de permettre d'administrer un composant clé de notre système d'acquisition. Il aura à traiter des problématiques de communication (Service Web en WCF) entre un client d'administration et le composant d'acquisition, ainsi que la communication entre le service Web et les différents Threads et Tasks du composant sans les perturber (temps réel).
+";08/04/2019;21/06/2019;NAVAL GROUP;"Site Indret
+44620 LA  MONTAGNE";Dominique STOFFEL;dominique.stoffel@naval-group.com;17;17;17;17;16;15;17;20
+Garcia;Jacques;2019;S-Sciences;185;0;0;12,16;14,40;Hamon;Ludovic;Développement;Développement d'outils graphiques pour la visualisation et le contrôle de données statistiques;Le logiciel sur lequel travaillera le stagiaire permet de traiter et d'afficher les relevés réalisés par la gamme de produit Viametris. Afin de contrôler la qualité des données, divers statistiques sont accessibles dans le logiciel et sont représentées sous forme de graphiques. Des interactions sont accessibles à l'opérateur pour simplifier ce contrôle qualité. Afin de faire évoluer cette interface graphique, l'équipe de développement souhaite mettre à jour la solution d'affichage de ces graphiques. Le stagiaire devra faire un état de l'art des solutions existantes pour afficher de manière générique des statistiques. Un recensement des graphiques existants et à venir sera effectué pour choisir la meilleure solution. Le stagiaire devra docummenter le travail réalisé. En fonction de l'évolution du stage, d'autres missions portant sur l'interface du logiciel pourront être proposées au stagiaire. ;08/04/2019;26/07/2019;VIAMETRIS;"Centre Koï
+Boulevard De La Communication
+53950 LOUVERNÉ";Anthony BEZIER;abezier@viametris.fr;12;17;18;15;18;14;14;16
+Chevalier;Nathalie;2019;S-Sciences;186;2;3;12,13;13,19;Laborie;Clément;Développement;Consultant Java/Java Script/SQL;Intégré(e) au sein de l'équipe projet gérant les applications en lien avec la solution de gestion de campagnes Adobe Campaign, vous participerez à la réalisation des versions évolutives des systèmes, et serez amené(e) à intervenir sur les phases de conception technique, réalisation et validation de l'application;08/04/2019;28/06/2019;CAPGEMINI TECHNOLOGY SERVICES;"7 Rue Claude Chappe
+CS 67746 35577
+CESSON SEVIGNE CEDEX";Eric MOULAC;eric.moulac@capgemini.com;13;13;15;13;16;15;15;15
+Meyer;Eva;2018;S-Sciences;163;2;3;12,07;12,36;Vieillard;Nathalie;Développement;Développement informatique dans le domaine de l'assurance;"- Apprentissage du contexte projet
+- Apprentissage du cadre méthodologique adapté pour ce projet, et des outils industrialisés de gestion de projets
+- Apprentissage du métier de l'assurance collective et de la retraite à travers un système d'information
+- Rédaction des spécifications fonctionnelles, participation aux développements
+- Assistance à la recette et préparation des livraisons";09/04/2018;31/08/2018;CGI FRANCE;"4 Avenue Georges 
+Les Terrasses de l'Université
+72000 LE MANS";Alexis BOUGAULT-CAILLE;alexis.bougault.caille@cgi.com;14;11;11;9;15;11;17;17
+Martinez;Alice;2022;S-Sciences;48;2;1;12,03;;Vieillard;Nathalie;Base de données;Développement d'un module d'agrégation de données;"Développement d’un module d’agrégation de données interconnecté avec une solution d’analyse de données marketing internet.
+Technologies: php/sql, web service, IA/Python.";02/05/2022;22/07/2022;IApredict;"16 quai de la joneliere 44300 Nantes
+44850 LE CELLIER";Arnaud Viguier;aviguier@iapredict.fr;14;13;15;13;14;3;2;8
+Chevalier;Eliott;2017;S-Sciences;167;4;4;12,02;13,84;Hamon;Ludovic;Développement;Développement d’un logiciel de réception et d’intégration de données météorologiques sous Raspberry ;"Une tête capteur météo fournit différents paramètres instanciés
+sous forme ASCII en RS485. L'interface embarquée devra traiter
+ces chaînes de caractères, stocker les données sous forme de 
+fichiers journaliers. À tout moment, l'utilisateur pourra visualiser
+par une interface web l'état du système";10/04/2017;23/06/2017;ATMOS SARL (Automatic And Telemet Meteor Obser Sys);"Rue Lucien Chaserant,
+72650 SAINT SATURNIN";Thierry BESNARD;"thierry.besnard@atmos-meteo.com
+";16;15;17;17;17;15;17;17
+Garcia;Chloé;2022;S-Sciences;15;2;3;12,02;12,48;George;Sébastien;Développement;Stage Dev Solution Support Utilisateur;Prise en charge de ticket d'enrichissement de la solution support utilisateur depuis la conception technique jusqu'à la réalisation et test;04/04/2022;29/07/2022;TELEMEDICINE TECHNOLOGIES;"Bureau de co-working, ACTOFFICE
+34 rue de la gare
+53 000 LAVAL";Hocine MOKHTARI;hmo@tentelemed.com;14;13;15;13;16;18;19;19
+Lambert;Léa;2021;S-Sciences;158;2;1;11,92;12,68;Walkowiak;Yann;Développement;Forum d'association - Virtualisation de la visite;"Conception d'une navigation virtuelle dans le salon
+Conception d'un stand virtuel et de ses décorations.
+Interactions au sein dans le stand entre visiteurs et exposants.
+Recherches technologiques.";06/04/2021;31/07/2021;Entente Sportive Caudacienne;"Rue du chemin vert 
+94510 La Queue en brie";Thierry Alberge;e.forum.fr@gmail.com;10;10;12;10;12;13;15;17
+Laurent;Enzo;2022;S-Sciences;37;4;2;11,85;13,21;Roulin;Olivier;Développement;Stage développement Java/API;Développement autour des outillages du socle API MAIF. Le socle API est basé sur les technologies REST, Java, Spring boot. Développement potentiellement aussi en react.js, si besoin.;19/04/2022;30/06/2022;MAIF;"200 avenue Salvador Allende
+79000 NIORT";Bertrand DELION;bertrand.delion@maif.fr;15;15;18;17;19;16;17;19
+Robin;Sarah;2022;S-Sciences;69;2;1;11,85;13,50;Vieillard;Nathalie;VBA;Optimisation outils décisionnel et reporting ;"Analyse/étude des besoins métiers : reporting et outils décisionnels
+Rédaction des spécifications fonctionnelles
+Développements des reporting avec l'applicatif SAS (et/ou SAS VA) + SAS add-in Excel si nécessaire
+Recette outils
+Rédaction d'un guide utilisateur + guide maintenance";04/04/2022;29/07/2022;MMA;"14 boulevard Marie et Alexandre Oyon
+72030 LE MANS";Frédéric SERVAIS;frederic.servais@covea.fr;18;18;17;17;17;13;15;17
+Simon;Mathis;2021;S-Sciences;171;2;3;11,81;12,42;Hamon;Ludovic;Développement;Automatisation de la validation logicielle;Au sein de notre application de validation logicielle existante en C++/QT : enregistrer les actions de l'utilisateur sur l'interface, stocker les actions de l'utilisateur en mémoire, rejouer les actions mémorisées de l'utilisateur, et afficher et permettre de choisir les séries d'action mémorisées.;06/04/2021;02/07/2021;GYS;"1 RUE DE LA CROIX DES LANDES
+53940 SAINT BERTHEVIN";Jean-Marcel LECRIVAIN;j.lecrivain@gys.fr;12;12;14;12;11;13;14;11
+Dupont;Léa;2022;S-Sciences;51;2;3;11,78;12,79;Decellières;Charles;Développement;Participation au développement et/ou maintien de nos solutions Atyl PMI et/ou Atyl Modes d’accueil;Concevoir, développer et maintenir des application web sur le même modèle technique pour un ensemble de client typé fonction public (département) ;04/04/2022;17/06/2022;Ambin Informatique;"17 rue des Granges Galand - Bat. A
+37550 ST-AVERTIN";Eric EMMANUELLI;eemmanuelli@ambin.fr;12;12;14;13;13;15;15;15
+Fournier;Axel;2022;S-Sciences;72;1;4;11,77;12,64;Walkowiak;Yann;Web;Stage Développement Informatique;Développement Php/HTML sur Wordpress et Symfony.;04/04/2022;20/06/2022;LACTALIS INFORMATIQUE;"10 RUE ADOLPHE BECK
+53000 LAVAL";Rémy CREPIN;Remy.CREPIN@fr.lactalis.com;14;15;15;16;16;17;15;18
+Girard;Nathan;2022;S-Sciences;80;2;3;11,76;15,96;Ernet;Bruno;Base de données;Sécuriser et améliorer l’ergonomie d’une base de données et de calculs d’essieux ferroviaires sous Excel;"- Sécurisation de 2 fichiers Excel de référence (bloquer la modification, protéger par mot de passe, création d’un template .xlt)
+- Amélioration de l’ergonomie de ces fichiers Excel de référence (mise en frome conditionnelle complexe, mise à zéro de champ, automatisation d’autotests de contrôle)
+- A partir de fichiers de données provenant d’une base Access, création d’un fichier Excel permettant la recherche de documents techniques de référence
+- Travailler sur l’ergonomie du fichier, notamment la recherche plein texte
+- Sécuriser le fichier
+Produit(s) de sortie :
+- 3 nouveaux outils informatiques sécurisés et ergonomiques, sur la base d’un existant à actualiser.";12/05/2022;27/07/2022;SNCF;"4 Allée des Gémeaux
+72100 LE MANS";Sébastien SMITH;sebastien.smith@sncf.fr;19;19;19;19;19;19;19;16
+Morel;Maëlys;2022;S-Sciences;85;3;3;11,75;12,54;Ernet;Bruno;Web;Développement Web sites internet, orienté objet et bases de données;Développement de nos sites web basés sur CMS Prestashop. Développement d'IHM (pour picking ..), module de caisse nomade à faire évoluer, traitement de bases de données, statistiques ...;04/04/2022;17/06/2022;Deus sport;"41 rue de la foret
+35300 Fougeres";yoann garzon;yoann@deus-sport.com;16;17;17;18;18;18;18;20
+Lefebvre;Léna;2018;S-Sciences;165;3;4;11,75;12,74;George;Sébastien;Développement;Refonte d'une application de pilotage des applicatifs MMA en production;"Portage de l'application ""Portail administration"" en technologie cible COVEA (coveuse*) en 3 phases: Etude/prise en main de l'application existante en java/flex, conception et maquettage en techno cible, puis implémentation de certains modules suivant le temps restant";09/04/2018;22/06/2018;MMA;"160 Rue Henri Champion
+72100 LE MANS";Julien BOULIERE;julien.bouliere@group-mma.fr;15;13;13;14;15;16;15;17
+Giraud;Maxime;2022;S-Sciences;102;3;4;11,74;13,90;Hamon;Ludovic;Développement;Analyste développeur .Net/SharePoint;"Viveka intégrera l'équipe chargée des développements des applications ""Collaboratives"" utilisées au sein du Groupe. 
+
+Au cours du stage, il :
+•	interviendra sur le développement d’applications C# .net sous SharePoint, 
+•	réalisera la conception et les tests, dans le respect des spécifications établies.";04/04/2022;31/07/2022;VINCI Energies Systèmes d'Information;"12 rue Pierre-Félix DELARUE
+72 100 Le Mans ";Alice LENOBLE;alice.lenoble@vinci-energies.com;17;18;18;17;15;17;17;20
+Mercier;Inès;2022;S-Sciences;88;4;4;11,70;11,10;Vieillard;Nathalie;Web;Développement web;"Sur un outils interne permettant de créer des pré demandes de congés (front vueJS v2, back java spring, bdd postgreSQL)
+l’évolution consistera à :
+-        Coté front :
+o   Créer une nouvelle page web permettant l’import d’un fichier cvs
+o   Créer une page web complexe permettant d’afficher le résultat de l’analyse, et d’interagir avec ces résultats, de filtrer …
+-        Coté back
+o   Créer une mécanique permettant d’analyser un fichier csv et de proposer une mise à jour automatique en base de données
+Proposer des idées d’amélioration";04/04/2022;17/06/2022;INETUM;"14B Rue Patis Tatelin
+35700 RENNES";Mélanie GALLE;melanie.galle@inetum.com;13;14;14;14;13;12;15;20
+Giraud;Eléna;2021;S-Sciences;173;1;1;11,66;14,43;Walkowiak;Yann;Base de données;Développement outils sur base de données ERPP;"Outil informatique pour mettre à jour l'ERP à partir d'un logiciel de gestion des stocks.
+Interfaçage de logiciel par Macro
+Extraction, union , recoupement de plusieurs bases de données";06/04/2021;23/07/2021;ELEKTO INDUSTRIE;"ZA du pont de pierre
+53240 Andouillé";Thibaut PIGANEAU;thibaut.piganeau@elekto.fr;15;16;17;17;17;16;17;16
+Durand;Zoé;2018;S-Sciences;175;1;2;11,64;10,48;Walkowiak;Yann;Développement;Stage de DUT informatique;"L'objectif du stage sera d'analyser le système de traduction actuel des libellées applicatifs
+du Groupe HERVE pour l'enrichir et développer un mécanisme permettant de personnaliser
+et renvoyer des libellées traduits par l'utilisateur, et de l'étendre aux applications mobiles du Groupe HERVE également";09/04/2018;22/06/2018;iMDEO;"12 rue Denis Papin
+37300 JOUE LES TOURS";Emmanuel DANEAU;emmanuel.daneau@imdeo.com;13;10,5;11;11;11;12;12;12
+Caron;Louis;2022;S-Sciences;97;2;4;11,64;12,65;Oubahssi;Lahcen;Test;Stage GEII - Programme des bancs de test;"Les bancs de test permettent le test après fabrication de cartes électroniques. Les bancs de test dernière génération sont contrôlés via USB par un programme développé en C# avec Visual Studio. 
+Le stagiaire aura la charge de faire évoluer les programmes de test pour integrer les dernières évolutions des cartes , harmoniser la structure des programmes et optimiser la COO";04/04/2022;17/06/2022;POLYSOUDE SAS;"2 rue Paul Beaupère
+44300 NANTES";Dominique GARNIER;d.garnier@polysoude.com;15;15;18;18;18;16;14;13
+Simon;Maëlys;2017;S-Sciences;168;4;1;11,54;11,74;Vieillard;Nathalie;Développement;Simulateur Fin de carrière;"Dans le cadre de la signature d'Accord d'entreprise, plusieurs dispositions
+de la fin de carrière sont possibles. Le stagiaire devra créer un simulateur pour envisager toutes les
+solutions dont un salarié pourrait bénéficier en mettant en évidence les avantages et les inconvénients.
+Le stagiaire devra développer toutes les étapes d'une gestion de projet: analyse du besoin, élaboration
+d'un cahier des charges, analyse fonctionnelle, développement, phase de recettage et plan de communication
+et formation des utilisateurs. Un tutorat fonctionnel et technique lui permettra d'être accompagné pour atteindre
+l'objectif envisagé";18/04/2017;13/07/2017;LACTALIS GESTION PLANIFICATION ORGANISATION;"10 Rue Adolphe Beck
+53089 LAVAL CEDEX 9";Philippe GUILLOU;philippe.guillou@lactalis.fr;7;7;18;15;15;16;18;19
+Renault;Arthur;2022;S-Sciences;112;1;2;11,53;9,16;Djadja;Jean Delest;Web;Participation au développement et à l'amélioration d'applications web;Participation au développement et à l'amélioration d'applications web (simulateur de prix, commande à la ressource, automatisation de gestion des noms de domaine, amélioration de back-office...) Languages & logiciels utilisés : PHP, MySQL, JavaScript, CSS, Git, utilisation d'API (xml) ;04/04/2022;07/07/2022;VEZIM;"2 place St Germain
+35000 RENNES";Pascal VÉRON;pveron@cyberbrain.net;8;8;9;9;9;9;9;9
+Picard;Fabien;2019;S-Sciences;187;4;2;11,51;12,06;Walkowiak;Yann;D2;Développement d'une application windows C#;Finalisation d'une application C# existants et réalisation d'une nouvelle application C# pour un environnement industriel;08/04/2019;21/06/2019;BLUEZI;"66 Rue De Paris
+35 220 CHATEAUBOURG";Christophe HIRON;christophe.hiron@blue2i.fr;16;16;16;16;17;17;15;15
+Simon;Valentin;2018;S-Sciences;193;2;1;11,50;15,09;Barré;Vincent;Web;Développement Web Java;"RCA développe une plateforme de gestion Web à destination des entreprises afin de gérer
+au mieux les flux de gestion avec son cabinet d'entreprise-comptable. La mission proposée
+est de pouvoir extraire les données statistiques utiles au fonctionnement du service client
+en charge de l'assistance auprès des utilisateurs";09/04/2018;22/06/2018;RCA;"7 Rue Jacques Brel
+LES REFLETS 
+Batiment B
+44800 SAINT HERBLAIN";Brice WATTELLIER;brice.wattellier@rca.fr;18;18;17;18;17;18;18;18
+Leroux;Zoé;2022;S-Sciences;89;3;2;11,46;13,48;George;Sébastien;Développement;DEv Solution support utilisateur;prise en charge tickets d'enrichissement depuis la conception jusqu'à la réalisation et test;04/04/2022;29/07/2022;TELEMEDICINE TECHNOLOGIES;"Bureau de co-working, ACTOFFICE
+34 rue de la gare
+53 000 LAVAL";Hocine MOKHTARI;hmo@tentelemed.com;9;14;12;13;14;17;18;19
+Meyer;Hugo;2020;S-Sciences;168;3;1;11,39;11,54;Walkowiak;Yann;Test;Mise en oeuvre de test e2e sur l'application raccobio;Réalisation de tests de bout en bout sur une application de gestion d'études;06/04/2020;19/06/2020;DCBRAIN SAS;"7 Rue Fulgence Bienvenue
+22300 LANNION";Loic DRUESNE;loic.druesne@dcbrain.com;12;11;11;12;13;8;16;13
+Deschamps;Jérôme;2019;S-Sciences;196;4;4;11,34;13,76;Vieillard;Nathalie;Web;Développement d'applications sous PHP/Symphony;"La mission consiste à se former aux développements sous PHP/Symphony.
+Le stagiaire aura notamment la charge de la réalisation d'un outil marketing d'aide à la décision sur les usages data en entreprise";08/04/2019;21/06/2019;CONJECTO;"74 Rue De Paris
+35000 RENNES";Benoit STOCLET;benoit@conjecto.fr;15;14;17;15;17;18;17;20
+Barbier;Christophe;2019;S-Sciences;198;4;3;11,33;12,40;Barré;Vincent;Web;Développement d'un portail web;Participation au développement d'un portail Web Hypervision (visualisation coubres, alarmes, ... ) en lien avec l'application LINA;08/04/2019;26/07/2019;IMS TRÉGOR;"Zone Artisanale De La Bourdinière
+22120 YFFINIAC";Anthony Le Roux;anthony.le.roux@groupe-api.fr;13;15;12;15;14;14;13;16
+Garnier;Enzo;2018;S-Sciences;211;1;4;11,30;11,48;Walkowiak;Yann;Web;Stage développement 4D;"Participation au développement de notre GMAO sous 4D
+Participation au développement du projet APS, devéloppement web";09/04/2018;22/06/2018;SARL Gestion et Traitement de l'Information;"Parc d'activités du Moulin,
+305 Avenue de Montricher
+13580 La Fare Les Oliviers";Florent DRULHON;florent.drulhon@gti-services.net;15;11;16;11;16;18;18;18
+Noel;Patrick;2019;S-Sciences;205;2;1;11,24;13,50;Marfisi;Iza;Développement;Développeur Unity;Participation au développement d'application de simulation 3D, réalité virtuelle, réalité augmentée;08/04/2019;15/08/2019;NUMIX;"42 Avenue De l'Europe
+Z.A. de Roumagnac
+81600 GAILLAC";Jeff SEBRECHTS;j.sebrechts@numix.fr;14;16;18;18;18;14;16;18
+Philippe;Romane;2020;S-Sciences;176;1;2;11,18;15,33;Barré;Vincent;Développement;Automatisation des produits d’infrastructure en mode SRE (Site Reliability Engineer);"-	Développement d’API en micro service avec python (Flask) autour des produits d’infrastructure (ControlM, Apache, PostgreSQL…) : Gestion des sources (Git), Tests unitaires (Pytest), Création d’artefact (Artifactory/Jenkins), Déploiements (Artifactory/Jenkins/Ansible), Tests fonctionnels (Tavern), Documentation (reStructuredText)
+-	Montée en compétence sur les systèmes d’exploitation Linux
+-	Utilisation de la méthode Agile Scrum";11/05/2020;28/08/2020;GFI;"32 rue du Champ de Tir
+44300 NANTES";Thierry VRIGNAUD;thierry.vrignaud1@gfi.fr;18;18;18;18;18;17;16;18
+Fernandez;Sarah;2018;S-Sciences;220;4;4;11,15;12,58;Oubahssi;Lahcen;Test;Automatisation et optimisation des tests de non-regression du logiciel interne de gestion;"Participation à:
+- évolution corrective du logiciel interne de gestion
+- création de tests unitaires
+- automatisation de tests fonctionnels";09/04/2018;31/07/2018;ITSAP;"15 Rue Edga Brandt
+72000 Le Mans";Sébastien DODU;sebastien.dodu@o2.fr;14;14;15;14;15;16;14;15
+Fernandez;Théo;2020;S-Sciences;187;3;4;11,10;13,00;Couland;Quentin;Web;Portail Release Management Salesforce;"Conception et mise en oeuvre d'un portail permettant de consolider différentes informations sur les environnements Salesforce de Covéa : état des plateformes de validation, état des outils de développement (chaîne CI/CD), configurations des liens avec les autres applicatifs, ...
+Environnement technique : HTML, CSS, Angular, appels API (jenkins, Salesforce, etc.)";18/05/2020;31/07/2020;MMA IARD;"COVEA
+14 boulevard Oyon, 72000 LE MANS
+72100 LE MANS";Antoine MAIRESSE;antoine.mairesse@covea.fr;18;15;12;14;13;17;18;16
+Roussel;Baptiste;2017;S-Sciences;197;3;1;11,03;11,64;Ernet;Bruno;Web;Développement web;"intégration et personnalisation de sites wordpress
+(php, html, css) & prestashop, optimisation techniques
+sous CEO Webdesign";10/04/2017;23/06/2017;K UNIQUE;"6 allée Marc Elder
+29000 QUIMPER";Christophe ROUILLAT;c.rouillat@k-unique.com;13;14;16;15;16;14;15;16
+Fernandez;Mélanie;2017;S-Sciences;229;3;1;10,99;10,56;Barré;Vincent;Web;Rapport de développeur au sein de la société OPSO;"Conception et développement d'une application
+web permettant la saisie des indices de satisfaction
+des clients, modélisation et développement d'une base
+de données stockant les appréciations. Mise en oeuvre
+d'une application d'analyse des indices avec Oliksense";10/04/2017;23/06/2017;"OPSO SARL
+";"16 Le Plessis Pas Brunet
+44390 NORT SUR ERDRE";Stéphane BOUTIN;stephane.boutin@opso.fr;15;14;14;15;14;14;17;17
+Lefebvre;Océane;2021;S-Sciences;178;3;4;10,98;12,52;Barré;Vincent;Test;Ecriture de tests et refactoring du front-end d'un logiciel SIG Open Source (JavaScript, HTML, CSS);Le/la stagiaire aura pour mission d'écrire des tests pour le logiciel Open Source Lizmap développé par 3Liz. Deux types de tests seront demandés : tests unitaires et tests end2end. Pour se faire, certaines parties du code devront être refactorées. Le but de la refactorisation est de rendre le code plus facilement testable et maintenable. Les langages de développement utilisés sont JavaScript (ECMA 6) principalement ainsi que du HTML5 et CSS3. L'environnement actuellement utilisé pour les tests end2end est Cypress sur les interfaces web. Le/la stagiaire devra rechercher un outil de tests unitaires pour le code JavaScript.;06/04/2021;18/06/2021;3LIZ SARL;"Chez CosWos 31 rue de l'Argenterie 
+34000 Montpellier";Nicolas Boisteault;nboisteault@3liz.com;13;14;14;13;11;9;11;11
+Thomas;Romain;2017;S-Sciences;233;3;4;10,97;12,04;Oubahssi;Lahcen;Web;Développement d’un module web de gestion des projets étudiants;"Développement d'un module web de gestion des projets étudiants
+(fonctionnalités principales: dépôt de projet, voeux des étudiants, affectation
+des projets,...). Ce module doit être intégré à WebEnsim, qui est l'application web
+de l'école pour la gestion scolaire";10/04/2017;23/06/2017;ENSIM-Université Du Maine;"rue Aristote
+72085 LE MANS CEDEX 9";Ophélie GUILLER;ophélie.guiller@univ-lemans.fr;13;13;15;14;15;16;17;16
+Vincent;Inès;2017;S-Sciences;247;3;1;10,83;12,36;Vieillard;Nathalie;Développement;Modification d’un progiciel existant pour une architecture 3 tiers ;"Participera à la conversion d'une application web existante vers une
+architecture 3 tiers. Sera en charge du développement d'un web-service permettant
+aux clients du groupe d'interroger la base de données pour la récuparation d'informations
+sur les articles, les stocks, etc.";10/04/2017;23/06/2017;Groupe Malfer-Bourgeat-Ordimajor;"36 rue Jean Moulin
+93260 LES LILAS";Frédéric RICHARD;frederic.richard@ordimajor.fr;5;11;11;11;11;19,5;19;20
+Dupont;Clément;2021;S-Sciences;185;3;4;10,78;11,20;Barré;Vincent;Développement;Développeur Infrastructures;- developpement d api en micro service avec python (flask) autour des produits d'infrastructure (controlm, apache, postgresql…) : gestion des sources (git), tests unitaires (pytest), creation d artefact (artifactory/jenkins), deploiements (artifactory/jenkins/ansible), tests fonctionnels (tavern), documentation (restructuredtext) - montee en competence sur les systemes d exploitation linux - utilisation de la methode agile scrum;06/04/2021;27/08/2021;Inetum;"32 RUE DU CHAMP DE TIR
+44300 NANTES";Martin LE TARNEC;martin.le-tarnec@gfi.world;10;8;14;14;15;12;16;16
+Dupont;Jean;2019;S-Sciences;233;4;3;10,78;12,78;Laforcade;Pierre;Développement;Stage informatique;"Découverte du support informatique, installations et configurations de postes informatiques
+Également, une activité de développement informatique sur l'application CRM.";08/04/2019;21/06/2019;IXAPACK GLOBAL;"Parc Économique de la Commanderie
+Le Temple
+79700 MAULEON";Yoann POHARDY;yoann.pohardy@ixapack.com;15;13;17;15;15;15;16;18
+Michel;Clara;2022;S-Sciences;148;2;3;10,77;14,46;Djadja;Jean Delest;Web;Développement du portail développeurs;"Il s’agit de concevoir et développer une nouvelle application web que l'on imagine appeler le ""portail développeurs"" et qui permettrait d’offrir un point d’entrée unique à tous les développeurs de la branche retraite.
+Dans ce site responsive, on pourra à minima:
+- Retrouver les liens vers tous les outils de l’usine logicielle ;
+- Initialiser un nouveau projet en automatisant les différentes tâches associées : création d’un espace projet sous GitLab, création d’une entrée dans Jenkins, et initialisation du projet à partir des archetypes Maven proposés par le socle technique.";04/04/2022;17/06/2022;CNAV;"15, avenue Louis Jouhanneau
+37100 TOURS";Benjamin CARTEREAU;benjamin.cartereau@cnav.fr;17;17;17;17;18;17;18;19
+Henry;Mathéo;2020;S-Sciences;190;1;3;10,70;12,35;Hamon;Ludovic;Développement;Stage de développement extension de TurtleTable;Extensions de TurteTable developpé sous Unity : système de recueil et de visualisation de traces (base de données, tableau de bord pour les enseignants et chercheur en ligne), vérification que l'exportation fonctionne sur Iphone, version en anglais, ajouts de fonctionnalités...;02/06/2020;24/07/2020;Le Mans Université, Laboratoire LIUM;IUT de LAVAL, bâtiment CERIUM², 15 rue des docteurs Calmette et Guérin, 53 000 Laval;Iza MARFISI;iza.marfisi@univ-lemans.fr;15;15;14;14;14;8;9;7
+Garnier;Maël;2020;S-Sciences;213;2;4;10,62;12,82;Barré;Vincent;Développement;Développement d'une solution de gestion de la documentation;"La conception fonctionnelle et technique de la solution de gestion de la documentation
+Le développement à partir d’un dossier de conception
+La rédaction des cahiers de tests
+La mise en place d’une plateforme de démonstration générique pour nos futurs clients et prospects";25/05/2020;28/08/2020;CGI France;"9 boulevard Ampère
+44470 CARQUEFOU";Alexandre AUDOUIN;alexandre.audouin@cgi.com;14;13;10;13;12;18;15;16
+Garnier;Louise;2017;S-Sciences;252;1;2;10,59;12,58;Cherni;Héni;Web;Mise en place d’un intranet avec Drupal 7;"- Analyse de notre intranet existant
+- Proposition d'amélioration (fonctionnelle
+et technologique)
+- Réalisation d'un prototypage";10/04/2017;23/06/2017;REAMETAL;ZA DU CLOS MACE, 53170 BAZOUGERS;Guillaume BAUDURET;guillaume.bauduret@reametal.com;13;10,5;13;8;10;14;18;18
+Morel;Benoît;2019;S-Sciences;236;2;2;10,51;12,77;Marfisi;Iza;Mobile;Stage Développement Mobile Android;Réalisation d'une application Androïd. La mission concerne la réalisation d’une application mobile « Actalarm » sur Android, cette application sera à destination du public et servira d’alternative au site internet, elle devra présenter l’entreprise, les technologies vendues ainsi que les actualités. L’application devra également être dotée d’un formulaire de contact;08/04/2019;21/06/2019;SARL ACTALARM;"Zone Artisanale des Pins
+29910 TREGUNC";Dylan LEDEROUT;serviceinformatique@actalarm.fr;14;14;17;14;16;18;18;18
+Rousseau;Margaux;2017;S-Sciences;253;4;3;10,47;11,91;Walkowiak;Yann;Développement;Intégration de CKEditor dans une plateforme d'éditions;"Mise en place d'une interface permettant la modification
+et le stylage de fichie XML (préalablement transformés en xthml).
+Pour cela l'étudiant devra utiliser CKEditor (ou autre s'il trouve mieux),
+modifier son interface afin de répondre à nos besoins et éventuellement de créer
+des plugins (en Javascript). Cet interface d'édition devra s'insérer dans une 
+plateforme plus vaste développée en JAVA.";09/05/2017;21/07/2017;STDI;"Rue Gutenberg
+Zone d’Activités Nord
+53110 Lassay-Les-Chateaux";Samuel BINEY;samuel.biney@stdi.eu;14;8;11;8;8;16;18;18
+Leroux;Laura;2019;S-Sciences;242;1;2;10,41;11,83;Ernet;Bruno;Développement;Refactoring d'applications métier;Ajout de fonctionnalités à nos outils: d'expédition de colis, de mise en ligne d'impression de travaux PDF;08/04/2019;21/06/2019;LOCA PUB IMPRIMERIE;"58 Rue de Roumanie
+72000 LE MANS";Mickaël REMARS;m.remars@calendrier.fr;10;12;10;13;14;17;17;17
+Roussel;Yanis;2022;S-Sciences;187;4;3;9,88;13,29;Ernet;Bruno;Web;Développement application Web Fiche équipement;Mise en place d'une application web pour la gestion des données de la fiche équipement avec recueil des besoins et gestion d'une base de données;04/04/2022;17/06/2022;Serap Industries;"Route de Fougères
+53120 GORRON";Olivier ALLAIN;oallain@groupeserap.com;13;15;15;15;16;20;20;20
+Martin;Chloé;2018;S-Sciences;223;2;3;9,80;11,26;Laforcade;Pierre;Web;Développement de site web;Développement d'un site vitrine avec une éventuelle console d'administration pour ajouter des articles;09/04/2018;22/06/2018;LIONS CLUB LAVAL PREMIER;"ENEDIS
+35 Rue Crossardière
+53000 LAVAL";Arnaud CAILLON;acaillonandroid@gmail.com;14;10;14;11;15;11;15;18
+Lemoine;Lisa;2021;S-Sciences;187;3;4;9,66;8,98;Roulin;Olivier;Développement;Technicien support & développement;"Pierre sera intégré à l'équipe informatique d'Optixt. 
+
+Au sein de l'équipe et épaulé par ses collègues, il assurera quelques tâches de support informatique qui lui permettront de développer sa capacité à s'intégrer et travailler dans le monde professionnel. 
+
+Dans ce contexte, il sera amené à intervenir sur des serveurs Windows, des bases de données SQL, des comptes utilisateurs Citrix, tout ceci dans un contexte décentralisé.
+
+On lui confiera également des petits projets de développement informatique liés aux besoins de nos clients, comme par exemple l'intégration EDI de flux ou du paramétrage d'infrastructures ou de logiciels. A ce titre, il sera amené à utiliser et développer son autonomie dans les technologies SQL, Windows server, XML mais aussi sur la fin du stage C#, REST, MS SQL Server.";06/04/2021;25/06/2021;OptiXT;"77-81 Bd de la République 
+92250 La Garenne Colombes";Joël Rault;joel.rault@optixt.fr;12;10;15;12;10;10;8;8
+Roche;Hugo;2021;S-Sciences;189;2;6;8,48;;Hamon;Ludovic;Test;Migration de l'application test IQC colonnes vers une gestion en base de données ;Actuellement l'application des tests IQC colonnes utilise des fichiers Excel pour traiter et enregistrer les résultats des contrôles. Cette solution n'étant pas optimisée pour le volume de données traitées, un nouveau développement est nécessaire pour optimisé la gestion des données utilisées par le test IQC et passer par l'utilisation d'une base de données pour stocker toutes ces informations. ;06/04/2021;11/06/2021;E4V;"10 rue Vincent Scotto
+72000 LE MANS";Marc LIGUORI;mliguori@e4v.eu;14;12;12;10;12;14;14;16
+Mathieu;Anna;2018;STI2D;8;1;1;16,12;18,02;Hamon;Ludovic;Développement;Réalisation d'une Centrale Inertielle de Référence;"Ce stage a pour objectif l'étude et le développement d'une IHM permettant la configuration, la mise en oeuvre
+ainsi que la surveillance d'une centrale inertielle de référence
+Le stage comprendra les travaux suivants:
+- Etude de la documentation en anglais
+- Développement de l'IHM en langage python";09/04/2018;22/06/2018;DGA MAîTRISE DE L'INFORMATION;"La Roche Marguerite
+Route De Laillé
+35170 BRUZ";Matthieu CHARPENTIER;matthieu.charpentier@intradef.gouv.fr;20;20;20;20;20;20;20;20
+Dubois;Manon;2022;STI2D;2;1;0;15,08;15,91;Djadja;Jean Delest;Web;Stage Développement Informatique;Gestion d'un projet informatique (analyse, développement, phase de test, mise en production);04/04/2022;26/06/2022;ALTHEA SOLUTIONS;"12 Boulevard Latouche
+72200 LA FLECHE";LIONEL HARDY;lionel.hardy@althea-solutions.fr;17;14;16;14;18;17;17;19
+Martin;Léna;2020;STI2D;10;1;1;14,97;13,63;George;Sébastien;Développement;"Stage R&D 2019-2020 Développement d’un module de création de points de  contrôle interactifs sous Unity
+";"Dans  le  cadre  de  l’amélioration  d’un  module  d’extraction  et  d’analyse  des  mouvements  d’un 
+apprenant en environnement virtuel, le LIUM est à la recherche d’un stagiaire afin de participer à 
+la  création  et  l’amélioration  d’un  outil  interactif  en  réalité  virtuelle.  Ce  stage se  déroulera  en 
+  
+Ses objectifs sont :  
+ 
+-  Créer  un  outil  interactif  de  création  de  points  de  contrôle  ou  CheckPoints  (CPs)  en  Réalité 
+Virtuelle (RV) . 
+- Étudier l’intégration de script dans les assetbundles [1] sous Unity 3D ou leurs équivalents dans 
+les nouvelles versions de Unity. 
+Vous  contribuerez  à  la  conception,  l’amélioration  et  au  déploiement  d’un  outil 
+interactif d’assistance pour la création de ces Check Points au sein du module d’extraction et d’évaluation 
+(MEVEL) de ces mouvements. Une collaboration avec un doctorant en informatique du LIUM pour 
+la conception de l’IHM sera assurée. Une deuxième étape consistera à étudier l’intégration de 
+scripts  dans  les  assetbundles  sous  Unity";06/04/2020;26/06/2020;Le Mans Université, Laboratoire LIUM;IUT de LAVAL, bâtiment CERIUM², 15 rue des docteurs Calmette et Guérin, 53 000 Laval;Jean Delest DJADJA;djadja_jean_delest.djadja@univ-lemans.fr;13;9;17;13;16;14;16;16
+Morin;Enzo;2020;STI2D;20;1;1;14,82;16,47;Laforcade;Pierre;Développement;Automatisation et Dématérialisation des processus comptables;"DEVELOPPEMENT SUR L'OUTIL UI PATH, participation au projet open text
+Plusieurs dossiers sont en cours ; nous travaillerons en particulier sur un sujet de RPA (Robotic Process Automation).
+L’objet du stage sera donc le développement de scripts d’automatisation de process grâce à l’outil UI Path https://www.uipath.com/.
+Concrètement, il s’agira, par exemple, d’automatiser :
+- l’intégration dans nos systèmes de données issues de portails web fournisseurs (catalogue de prix, factures,…).
+- le traitement de données stockées dans des boîtes mail
+- l’envoi de données à nos clients (factures…)
+- les tests d’intégration inter-application
+…
+
+Par ailleurs, Le stagiaire participera au projet SAP Opentext sur la partie recette d’intégration et mise en œuvre de flux de facture EDI avec nos fournisseurs.
+
+ ";18/05/2020;07/08/2020;LACTALIS INFORMATIQUE;"10 RUE ADOLPHE BECK 
+53000 LAVAL";VINCENT PARIS;vincent.paris@lactalis.fr;16;16;20;20;18;18;18;18
+Petit;Chloé;2017;STI2D;7;0;1;14,70;16,39;Laforcade;Pierre;Mobile;Développeur mobile au sein de la société TECHNOLOGY EVERYWHERE ;"Intégré à l'équipe de développement, le stagiaire aura 
+pour mission:
+- d'analyser le besoin client et les spécifications fonctionnelles détaillées
+- de participer à la conception et au développemen des applications
+- de réaliser les phases de test des modules développés";10/04/2017;23/06/2017;TECHNOLOGY EVERYWHERE;"6 rue Leonard de Vinci
+53000 LAVAL";Thierry MAREC;thierry.marec@te-laval.fr;18;15;14;17;18;17;17;18
+Henry;Frédéric;2019;STI2D;8;1;1;14,40;13,96;Ernet;Bruno;Développement;Ajout de fonction autour de google home, réalisation d'une FAQ vocale;L'objet de ce stage sera de compléter un prototype de bot Google Assistant en y intégrant une FQ et autres fonctions qui ne nécessite pas d'authentification;08/04/2019;21/06/2019;CRÉDIT MUTUEL ARKEA;"1 Rue Louis Lichou
+29480 29480 Le RELECQ-KERHUON";Florent ISOARD;florent.isoard@arkea.com;16;16;12;16;15;16;14;17
+Simon;Jade;2022;STI2D;7;1;1;14,25;14,88;George;Sébastien;Développement;Analyste Développeur JAVA;"Ludovic intégrera l'équipe chargée des développements des applications ""métier"" utilisées au sein du Groupe.
+Au cours de son stage, il interviendra sur :
+- La réalisation d'application(s) et des tests associés,
+- L'analyse des besoins,
+- et la rédaction de spécifications fonctionnelles.";04/04/2022;19/08/2022;VINCI Energies Systèmes d'Information;"12 RUE PIERRE FELIX DELARUE
+72100 LE MANS";Denis GAUTHIER;denis.gauthier@vinci-energies.com;16;13;16;14;16;17;17;18
+Laurent;Romain;2018;STI2D;23;0;0;14,13;15,75;George;Sébastien;Base de données;Elaboration d’un système d’information pour la gestion intégrée des données scientifiques chez le pommier;"L’objectif du stage est de construire une base de données répondant aux besoins de l’équipe et permettant d’exporter ces données vers des bases plus importantes telles que GnpIS. Un travail préliminaire a été accompli sur l’analyse des données existantes et l’évolution envisagée dans les types de données (nouveaux outils de phénotypage, nouveaux capteurs, nouvelles techniques générant des fichiers originaux). Le  stagiaire devra dans un premier temps rédiger le cahier des charges pour la création de la base de données.  Il proposera le modèle conceptuel des données, et implémentera la base de données à l’aide du système de gestion de base de données PostgreSQL. Il devra également faire des propositions et concevoir l’interface web qui permettra la saisie, la consultation et l’exportation des données. Le stagiaire travaillera en étroite collaboration avec les ingénieurs INRA et Supagro de l’équipe AFEF en charge de la gestion des données ainsi qu’avec les informaticiens en charge des SGBD sur le CIRAD et l’INRA. Il sera en contact avec l’ensemble de l’équipe des permanents AFEF pour l’analyse et la satisfaction des besoins de la base de données. A l’issue du stage, une base de données, l’interface de saisie et l’interface de consultation seront opérationnelles. Un premier jet de l’interface de sortie vers la base de données Ephesis serait souhaitable pour deux types de données : la phénologie et données de structure-fonction. 
+Activités dominantes confiées au stagiaire
+- rédiger le cahier des charges de la base de données ; 
+- concevoir et proposer le modèle conceptuel de la base de données;
+- générer la BDD sous PostgreSQL des données hiérarchisées (et si possible géo-localisées) ;
+- veiller à la compatibilité des données avec les BD majeures de la discipline (vocabulaire, ontologie) ; 
+- proposer et concevoir l’interface WEB pour l’importation, la saisie, la consultation et l’exportation des données à destination de l’équipe AFEF et vers des bases de données nationales ";09/04/2018;22/06/2018;"INRA - Institut National de la Recherche Agronomique (Établissement public à caractère scientifique et technologique)
+";"CIRAD (Centre de coopération internationale en recherche agronomique pour le développement)
+UMR AGAP/ Equipe AFEF (Arboriculture et fonctionnement des espèces fruitières)
+AFEF – UMR AGAP 1334 - Campus CIRAD, 
+TA-A-108/03, 
+Avenue Agropolis
+34398 Montpellier Cedex 5, France";"Isabelle FARRERA
+Magalie DELALANDE";isabelle.farrera@supagro.fr magalie.delalande@inra.fr;18;18;20;18;19;20;19;19
+Lefevre;Raphaël;2021;STI2D;6;0;0;13,89;14,18;Djadja;Jean Delest;Web;CONCEPTION DES ECRANS ET DEVELOPPEMENT DE LA LOGIQUE METIER D'ENCHAINEMENT/ RECUPERATION ET ENVOI DES DONNEES VERS UN BACKEND VIA DES WEB SERVICES (REST);DEVELOPPEMENT D'UNE APPLICATION MOBILE SUR ANDROID POUR LA GESTION DES ORDRES DE MISSION DES SERVICES DE COLLECTE DES DECHETS;06/04/2021;18/06/2021;MOBIL-INN;"1 RUE AMPERE 
+ESPACE VOLTA
+22300 LANNION";TRISTAN LECORGNE;TRISTAN.LECORGNE@MOBIL-INN.COM;14;16;15;15;15;14;14;20
+Roy;Nathan;2020;STI2D;33;0;0;13,57;14,18;Ernet;Bruno;Développement;Projet SOFT’IA – Développement du système de reconnaissance faciale;"Prendre en compte le projet Soft'IA et son objectif
+Prendre en compte le module ""Openfacetracker"" et son objectif (architecture et développements déjà réalisés)
+Développer / tester / documenter / livrer les évolutions demandées";18/05/2020;31/07/2020;ESIEA;"38  rue des Docteurs Calmette et Guérin
+53000 LAVAL";Richard REY;richard.rey@esiea.fr;14;15;14;15;15;18;18;18
+Roger;Noah;2020;STI2D;35;0;0;13,56;13,91;Djadja;Jean Delest;Mobile;Stage développement application Mobile liées aux conseils en paris Sportif ;"Demarrer le développement d’une application mobile de paris sportif en lien avec un site existant 
+- Réalisation du design selon cahier des charges (fichier PSD) 
+- Développement Java
+- Mise en relation des clés API stripe 
+- Mise en relation de systèmes de Login et compte existants sous site WordPress  
+- Analyse de conformité UX/UI avec le chef de projet ";13/04/2020;22/05/2020;ISSOP-PARACK Alexis (JUSTPRONOS);"1 rue Robert Schumann
+30620 AUBORD";Alexis ISSOP-PARACK;alexisparack@hotmail.fr;14;14;14;14;14;13;17;20
+Simon;Élodie;2019;STI2D;17;1;1;13,53;14,02;Walkowiak;Yann;Mobile;Interfaces tangibles sur tablette;Le stagiaire devra adapter le jeux éducatif TurtleTable (https://lium.univ-lemans.fr/turtletable/) sur tablette. La difficulté est de pouvoir détecter des objets posés sur un écran capacitif Pour cela, de la peinture conductrice et un SDK, qui permet de reconnaître des objets sur une tablette, seront fournis. La stagiaire devra donc utiliser ces outils pour tester la faisabilité et développer un prototype;08/04/2019;21/06/2019;Le Mans Université, LIUM;"Batiment CERIUM
+15 rue des docteurs Calmette et Guérin
+Cedex 09
+53020 LAVAL";Iza MARFISI;iza.mafisi@univ-lemans.fr;16;16;16;12;14;17;14;16
+Philippe;Zoé;2017;STI2D;33;0;0;13,48;13,01;Champalle;Olivier;Test;Automatisation et industrialisation de tests documentaires ;"Découvrir le domaine de la communication client
+et développer des fonctionnalités spécifiques autour
+de la solution CCM";10/04/2017;31/08/2017;CAPGEMINI TECHNOLOGY SERVICES;"Rennes Atalante champs blancs
+7 rue Claude Chappe
+CS 67746
+35577 CESSON SEVIGNE CEDEX";Ludovic GOUTARD;ludovic.goutard@capgemini.com;13;12;13;12;11;17;18;17
+Philippe;Hugo;2018;STI2D;49;0;0;13,46;14,12;Barré;Vincent;Développement;"Développeur
+";Maintenance et évolution de différentes applications utilisées par la ville de Paris et particulièrement l'application APA (Allocation Personnalisé d'Autonolie);16/04/2018;29/06/2018;ACCENTURE TECHNOLOGY SOLUTIONS;"68 Boulevard Marcel Paul
+44800 SAINT HERBLAIN";Vincent LE NAVENNEC;vincent.le.navennec@accenture.com;15;14;15;16;17;15;16;15
+Mathieu;Guillaume;2019;STI2D;22;0;0;13,46;15,22;Marfisi;Iza;Mobile;Développement d'une application mobile;Développement d'une application mobile de préparation de commandes dans un environnement Androïd, SQL et Oracle;18/04/2019;03/07/2019;DEFITRANS (GROUPE DELANCHY);"3 ECOPARC
+53410 LA GRAVELLE";Damien BRETAULT;d.bretault@delanchy.fr;16;17;16;16;16;17;16;18
+Meyer;Raphaël;2021;STI2D;13;0;0;13,41;14,20;Oussema;Mahdi;Web;Stage Développeur Full Stack JavaScript;"Prise en charge des tickets envoyés par nos utilisateurs
+Intégration de nouvelles fonctionnalités coté client et API
+Recetage des résolutions de bugs
+Maintenance des serveurs et des logiciels
+Projets : Logiciel RH, Marketplace B2B, système de logistique, système de personnalisation de documents en ligne ...";06/04/2021;09/07/2021;U'rself;"3 rue du Commandant Cousteau
+33100 BORDEAUX";Simon Trichereau;simon@urself.fr;16;15;20;17;18;15;16;13
+Mathieu;Eliott;2020;STI2D;36;0;1;13,39;16,56;George;Sébastien;Web;Stage développement web modules extranet clients TREMBLAYE;L'objectif principal du stage est de développer un module de notre extranet client. Ce module n'est pas encore défini (tableau de bord client et/ou connexion au serveur cartographique) mais la technologie sera du PHP sur base mysql avec le framework LARAVEL avec appel d'API REST développées elles aussi en PHP.;18/05/2020;31/07/2020;"HV2A TREMBLAYE HOLDING
+";"17 à 25 rue André Citoën
+72021 LE MANS Cedex 2";Anthony BOIVIN;anthony.boivin@tremblaye-sa.fr;18;17;18;17;17;19;18;20
+Leroux;Anna;2021;STI2D;16;1;1;13,34;15,17;Oussema;Mahdi;Développement;Stage - Développeur Java;"Participation à la prise en charge de nouveaux projets d’intégration.
+•Appropriation du contexte fonctionnel et technique
+•Analyse d’impacts sur les applications existantes
+•Réalisation des développements et correction des anomalies
+•Tests et documentation
+•Rédaction et déroulement des plans de tests unitaires
+•Rédaction de la documentation d’exploitation
+•Application des normes qualité
+•Traçabilité des interventions
+Environnement technique : Java J2EE, AngularJs, Vue.JS, Grails , WebServices SOAP et REST.";06/04/2021;18/06/2021;CGI France;"Les Terrasses de l’Université
+4 avenue Georges Auric
+72000 LE MANS";Sébastien HUET;sebastien2.huet@cgi.com;14;16;17;17;17;13;14;17
+Martinez;Lina;2017;STI2D;35;0;0;13,34;14,06;Vieillard;Nathalie;Développement;Developpement C# .NET;"Participation à la production d'applications web et client lourd basés sur C# .NET .
+Intégration à l'équipe Microsoft de développement de projets au forfait (équipes de 1 à 4 développeurs, projets de 3 mois à un an).
+L'étudiant découvrira et devra appliquer nos standards de développement et nos méthodes de travail grâce à l'utilisation les outils mis à dispoisition (gestion de projet : Agile/Redmine , gestion de configuration : git/GitLab , qualité : SonarQube).
+Les projets sur lesquels il pourra participer (selon ses compétences et son appétence) sont par exemple :
+ - application web de gestion de projets, pour un client dans le domaine de l'énergie
+ - application logicielle de conception et validation de configuration, pour un client dans le domaine automobile
+ - application web d'aggregation et de visualisation de données issues de capteurs, pour un client dans le domaine de l'énergie
+ - application logicielle de test et remontée d'anomalies sur du matériel, pour un client dans le domaine industriel";10/04/2017;31/08/2017;ALTER SOLUTION ENGINEERING;"6 Avenue du Général de Gaulle
+78000 VERSAILLES";Fleury CLÉMENT;cfleury@alter-frame.com;15;17;12;13;15;14;15;16
+Lemaire;Mélanie;2020;STI2D;54;0;0;13,24;15,99;Laborie;Clément;Web;Reprise d'un projet de crawling de sites web et d'indexation;"Les recherches généalogiques successorales consistent pour une part essentielle à rechercher l'existence d'ayant droit en apportant la preuve d'une filiation entre un défunt et celui-ci.
+Elles demandent la consultation des archives, principalement organisées au niveau du département ou des grandes métropoles.
+Une partie seulement de ces archives sont consultables en ligne, par le bais de sites le plus souvent indépendants, avec contrôle d'accès ou pas.
+Les consultations en ligne dépendent de la numérisation des différents registres. Celle-ci est en constante évolution, registre par registre et commune par commune.
+Une base de données des informations consultables est créée par scrapad, l'outil  permettant de tenir à jour les communes - et les registres associés - accessibles en ligne, se basant sur les techniques de crawling des sites web associés.
+GENEALIO est une plateforme d'accès à l'information ainsi tenue à jour.
+
+Fonctionnalités
+Un outil de recherche par commune fournira la liste des registres et périodes disponibles, avec les liens d'accès aux informations sélectionnées, dès lors qu'elles existent, généralement par l'intermédiaire de plusieurs types de lecteurs de documents numérisés.
+Des aides à la recherche sont à envisager, en particulier basées sur la géolocalisation (suggestion des communes voisines dans un rayon de x km par exemple).
+Dans un deuxième temps, cette plateforme d'accès collectera les recherches effectuées et les temps passés pour une meilleure analyse de l'activité.";14/04/2020;29/06/2020;CONJECTO;"74D rue de Paris
+35000 RENNES";Benoit STOCLET;benoit.stoclet@conjecto.com;17;17;17;17;16;17;17;20
+Renard;Grégory;2019;STI2D;35;2;1;13,21;13,65;Marfisi;Iza;Développement;QUIZ: Test de montée en compétences;"Conception et développement du module ""QUIZ"" dans notre outil interne nommé Cube. Il s'agit d'un outil en ligne à destination des collaborateurs et du pilotage d'activité, couvrant un ensemble de besoins fonctionnels répartis en module.
+Quiz devra permettre de créer des questions (à choix multiples, voire d'autre type) et de créer des questionnaires. 
+Quiz devra également permettre de répondre aux questions et de vérifier si le collaborateur a le niveau attentu";08/04/2019;21/06/2019;SODIFRANCE;"2 Boulevard Marie et Alexandre Oyon
+72000 LE MANS";Christophe GUEGUEN;cgueguen@sodifrance.fr;14;11;16;14;13;15;17;17
+Philippe;Tom;2020;STI2D;56;2;2;13,20;14,09;Laforcade;Pierre;Web;Stage de valorisation des compétences en développement informatique d'applications web et mobile;Valorisation et confirmation des compétences acquises pendant le cursus scolaire de l'élève stagiaire par le biais de diverses tâches de conception numérique telles que le développement d'une application web et / ou native.;11/05/2020;19/06/2020;EASTECHNOLOGY;"26 Avenu de la libération
+57100 THIONVILLE";Stéphane JOSEPH;stephane@eastechnology.fr;13;13;14;14;14;19;20;20
+Perrin;Anna;2020;STI2D;68;0;2;13,10;14,78;Couland;Quentin;Web;Développement Web / Mobile au Mans;"Le stagiaire travaillera principalement sur notre plateforme collaborative Acollab, sur l'amélioration et le développement de nouveaux modules,
+et éventuellement sur les applications mobiles de Acollab (iPhone et Android).
+Le stagiaire peut également être amené à travailler sur des projets Web ou Mobile sur mesure pour nos clients.
+
+Développement de la plateforme Web en Java, Spring
+Développement iPhone en Swift
+Développement Android en Java ou Kotlin selon les projets";06/04/2020;28/08/2020;AKELIO;"6 RUE DU PONT
+72100 LE MANS";Guillaume LOUVEL;louvel@akelio.fr;14;14;15;13;15;15;14;15
+Denis;Laurent;2019;STI2D;42;1;0;13,08;13,94;Laforcade;Pierre;Web;STAGE EN PROGRAMMATION WEB, FRONT et BACKEND;L'étudiant stagiaire va nous aider dans le développement et la maintenance de nos différentes propriétés numériques. Programmation front end avec reactJs et intéragissant avec un backend wordpress;08/04/2019;12/07/2019;MAGAZINE URBANIA INC.;"880 RUE ROY EST, #200
+MONTREAL (QUEBEC)
+QC H2L 1E6
+";Frédérice VIOLLEAU;frederic@urbania.ca;15;15;17;15;17;16;18;20
+Denis;Lina;2021;STI2D;30;0;0;13,02;15,02;Hamon;Ludovic;Développement;Réalisation d’une application MVC C# pour la gestion des demandes de prix de transport;"Pouvoir gérer une base de transporteurs actifs ou prospects
+Préparer et lancer des demandes de prix de transport
+Pouvoir saisir et comparer les offres des différents transporteurs consultés
+Pouvoir analyser cette base de données et en ressortir différentes statistiques";06/04/2021;18/06/2021;SERAP INDUSTRIES SAS;"Route de Fougères
+53120 GORRON";Olivier ALLAIN;oallain@groupeserap.com;19;17;18;18;20;20;20;20
+Lefevre;Thibault;2018;STI2D;50;0;1;12,96;12,91;Hamon;Ludovic;Développement;Conception et développement d'applications en environnement windows Holographic;"- Montée en compétences sur l'environnement Windows Holographic.
+- Contribution à la réalisation (conception, développement, test, ...) de projets pour le compte
+de clients SYNERGIZ ou de R&D";09/04/2018;22/06/2018;SYNERGIZ;"21 rue des bas sablons
+35400 SAINT-MALO";Samuel BLANCHARD;sblanchard@synergiz.com;18;13;17;13;15;13;18;17
+Brun;Sarah;2021;STI2D;32;0;1;12,92;14,42;Roulin;Olivier;Développement;Développement d'un outil de positionnement Arduino;Le positionnement des pieux vissés nécessite une correction en temps réel par rapport au point défini comme zéro. Il est proposé, en partant des outils déjà utilisés, de développer un outil basé sur le microcontroller Arduino, capable de calculer la position actuelle à partir des données des accéléromètres, et d'essayer de l'implémenter dans un engin de pose.;06/04/2021;25/06/2021;AEDIFICANTES S.A.S.;"6, rue Léonard de Vinci, Maison de la Technopole
+53000 LAVAL";Stanislav SIMONENKO;stanislav.simonenko@gmail.com;13;14;17;15;17;17;17;17
+Brun;Lisa;2022;STI2D;38;0;0;12,88;12,76;Walkowiak;Yann;Web;Aide au développement d’interface de gestion des activités opérateurs télécom;"Première période : Développement d’une interface pour le pilotage des flux d’appels téléphonique, site et base de donnée
+Deuxième période : Ajout d’un module dans le portail basé sur Symfony client pour visualisation des licences antivirus.";04/04/2022;30/07/2022;MCT;"19 Rue Eugène Messmer
+53000 LAVAL";Valentin Leboissetier;vlr@mct.eu;15;13;12;14;14;17;16;15
+Lemoine;Patrick;2019;STI2D;69;1;1;12,87;12,94;Oubahssi;Lahcen;Test;Tests Qualités et Développement Skill ALEXA;"La mise en place et le paramétrage d'un système d'automatisation, des déploiements et des tests et API sur Microsoft AZUR pour JESUISENCOURS (programmation en différents langages pour le service qualité)
+La programmation d'un skill pour Amazon Alexa en node JS sur un sujet domotique concernant des flux vidéos JP et l'interfaçage domotique pour Jeedom
+Le stagiaire sera intérgré dans l'équipe R&D du groupe et familières des technologies Web, Server, SQL et des infrastructures CLOUD";08/04/2019;21/06/2019;JESUISENCOURS;"17 Rue de la Guillauderie
+44118 LA CHEVROLIÈRE";Denis SCHIRRA;denis.schirra@jesuisencours.com;13;13;15;15;15;18;17;18
+Girard;Isabelle;2019;STI2D;70;0;1;12,87;14,35;Hamon;Ludovic;Développement;Développement logiciel utilisation/maintenance salle de Réalité Virtuelle;"Développement d'un logiciel (Interface + fonction) sous Unity 3D permettant la gestion; la maintenance et la mise en service de solutions immersives et interactives de Réalité Virtuelle";08/04/2019;21/06/2019;SARL Imagin-VR;"Maison de la Technopole
+6, rue Léonard de Vinci 
+53000 Laval";Marc DOUZON;marc.douzon@dao-be.com;18;18;20;12;20;18;16;18
+Fournier;Thomas;2019;STI2D;82;1;2;12,71;12,97;Couland;Quentin;Développement;Analyste développeur;"Sujet à définir en février:
+Au cours de votre stage, vous interviendrez sur la réalisation d'application(s) JAVA et des tests associés. 
+Vous  êtes  également  susceptible  d'intervenir  sur  l'analyse  des  besoins  et  la  rédaction  de  spécifications 
+fonctionnelles. ";08/04/2019;21/06/2019;VINCI ENERIGES SI;"Direction SIMA - équipe Application
+24 rue Thomas Edison
+72 000 LE MANS";Johnny SCHWARTZ;johnny.schwartz@vinci-energies.com;12;13;15;15;15;14;15;16
+Sanchez;Maël;2018;STI2D;53;0;1;12,60;13,36;Laforcade;Pierre;Web;Amélioration et ajout de fonctionnalités d'un CMS;"Améloiration et ajout de fonctionnalitées d'un CMS développé en ASP.Net MVC (le gros de la mission)
+Étudier la possibilité d'intérgrer des Tests unitaires et mes créés le cas échéant
+Migration d'un site SPIP en 2.0 et 3.0
+Création de thèmes Wordpress ";16/04/2018;29/06/2018;TAWFIQ CADI TAZI;"LIBRICKS SARL
+Experts Logiciels Libres
+47 Rue Crossardière
+53000 Laval";Tawfiq CADI TAZI;tawfiq@caditazi.fr;12;14;14;15;17;16;15;18
+Leroy;Michel;2019;STI2D;102;0;1;12,54;12,31;Barré;Vincent;Web;Amélioration des fonctionnalités de l'outil MOOCAT (MOOC Authoring Tool);"Développer l'API de communication Moocat et Moodle
+Adapter les fonctionnalités de Moocat pour le contexte pastel";08/04/2019;28/06/2019;Le Mans Université, LIUM;"Batiment CERIUM
+15 rue des docteurs Calmette et Guérin
+Cedex 09
+53020 LAVAL";Lahcen OUBAHSSI;lahcen.oubahssi@univ-lemans.fr;16;14;17;15;12;12;12;12
+Petit;Olivier;2019;STI2D;109;2;1;12,47;12,68;Vieillard;Nathalie;Développement;Analyste développeur;"Vous intégrez l'équipe chargée des développements des applications ""collaboratives"" utilisées au sein du groupe. Au cours de votre stage: 
+- vous interviendrez sur le développement d'applications C#. Net et sous SharePoint
+- vous réaliserez la conception et les tests, dans le respect des spécifications établies";08/04/2019;21/06/2019;VINCI ENERGIES SI;"24 Rue Thomas Edison
+72000 LE MANS";Romain AUBRIL;romain.aubril@vinci-energies.com;11;12;14;12;10;16;19;18
+Brunet;Jade;2018;STI2D;56;1;2;12,45;13,14;Barré;Vincent;Développement;Développeur;Mettre en place un système de visionnage de vidéo 360° stéréoscopique en réalité virtuelle sur plusieurs supports, et comparer les avantages et inconvénients de chacun. Travail en C# sous Unity et avec un HTC Vive et un Google Cardboard;16/04/2018;29/06/2018;ACCENTURE TECHNOLOGY SOLUTIONS;"68 Boulevard Marcel Paul
+44800 SAINT HERBLAIN";Thomas WOLF;thomas.wolf@accenture.com;13;15;12;15;17;16;16;15
+Moreau;Zoé;2017;STI2D;36;0;2;12,29;14,31;Cherni;Héni;Mobile;Amélioration de la rentabilité de l’entreprise par une meilleure gestion de son organisation « Le numérique au service des agendas »;"Conception d'une application mobile pour 
+les commerciaux en liaison directe avec la
+CRM existante
+";10/04/2017;23/06/2017;DIETAGRO;"20 route de Laval
+53200 AZÉ";Frédéric BLANCHOUIN;f.blanchouin@dietagro.fr;19;19;13;16;18;15;17;17
+Rousseau;Ethan;2022;STI2D;42;2;0;12,29;13,62;George;Sébastien;Développement;Développement solution support utilisateurs;prise ne charge tickets d'enrichissement depuis la conception jusqu'à la réalisation et test;04/04/2022;29/07/2022;TELEMEDICINE TECHNOLOGIES;"Bureau de co-working, ACTOFFICE
+34 rue de la gare
+53 000 LAVAL";Hocine MOKHTARI;hmo@tentelemed.com;16;15;16;15;15;18;19;19
+Moreau;Émilie;2022;STI2D;13;0;2;12,25;13,65;Roulin;Olivier;Web;Développement d'un outil de validation des performances de système de comptage automatique de passagers;Le stage consiste à mettre en œuvre un outil de mesure de performance basé sur un calcul contradictoire réalisé entre les données issues d'un système de comptage automatique de passagers (format XML) à bord des trains et les données de comptage manuel. L'outil devra permettre une interface de saisie et de configuration. Il devra fournir également un certificat de performance.;19/04/2022;08/07/2022;SNCF Voyageurs;"4 allée des gémeaux
+72000 LE MANS";Julien DELACOU;julien.delacou@sncf.fr;14;12;17;15;15;17;17;19
+Henry;Margaux;2018;STI2D;71;2;0;12,22;9,68;Vieillard;Nathalie;Web;Ingénieur développement web;Participation aux développements des évolutions du produit DOCATEM;02/05/2018;16/07/2018;DOCAPOST BPO;"DOCAPOST BPO BU DIGITAL SOLUTIONS
+Immeuble Axe Défense
+49-51 rue Louis Blanc
+92917 PARIS LA DÉFENSE CEDEX
+";"Daniel KERJOUAN
+";daniel.kerjouan@docapost.fr;13;11;14;12;16;16;13;15
+François;Léo;2022;STI2D;19;1;0;12,21;14,69;Decellières;Charles;Web;Développement d'applications métier web;"Voici les tâches sur lesquelles vous serez susceptible de travailler :
+•	Développement de nouvelles fonctionnalités sur une ou des applications web en cours de développement ou en lancement
+•	Résolution de bugs relevés sur une ou des applications web en cours de développement par d’autres développeurs
+•	Création de « packages » permettant de réutiliser du code déjà fait dans d’autres projets à venir";04/04/2022;15/07/2022;Ozytis;"50, Boulevard Félix GRAT
+53000 Laval";Kévin Poirier;kevin.poirier@ozytis.fr;13;16;17;18;18;15;15;13
+Roche;Mathis;2017;STI2D;41;1;1;12,21;15,04;George;Sébastien;Web;Analyste Développeur Amélioration application web de Gestion de Salles ;"Dans le cadre de son stage Mr Bastien LEDUC
+sera amené à faire évoluer notre application de gestion
+des salles en ajoutant de nouvelles fonctionnalités et en revoyant
+quelques points d'ergonomie. Ses travaux vont de l'analyse des
+besoins à leur réalisation. Note: l'application est développé en PHP5
+et utilise une base de données MySQL
+";10/04/2017;23/06/2017;VINCI ENERGIES SYSTEMES D'INFORMATION;"24 Rue Thomas Edison
+72100 LE MANS";Yohann DEROUINEAU;yohann.derouineau@vinci-energies.com;18;17;15;16;17;19;19;18
+Lemoine;Thibault;2020;STI2D;79;2;2;12,10;13,23;Vieillard;Nathalie;Web;DEVELOPPEMENT INTERFACE;"Participation au développement à une interface middleware,
+Aide aux tâches de run avec son tuteur";26/05/2020;31/07/2020;LACTALIS INFORMATIQUE;"10 à 20 rue Adolphe Beck
+53089 LAVAL CEDEX 9";Nicolas MORAND;nicolas.morand@lactalis.fr;12;12;14;13;16;20;20;20
+Lambert;Emma;2022;STI2D;26;2;2;12,10;14,09;Roulin;Olivier;Développement;Développements dans l'environnement client Dart & Flutter et serveur JAVA J2E;Développements dans l'environnement client Dart & Flutter et serveur JAVA J2E;07/04/2022;31/07/2022;Entente Sportive Caudacienne;"2 rue du chemin vert - Stade Robert Barran
+94510 La Queue en Brie";Thierry Alberge;e.forum.fr@gmail.com;16;16;17;16;16;15;15;18
+Martinez;Laurence;2019;STI2D;110;2;2;12,08;13,53;Walkowiak;Yann;Développement;Développement d'outils d'automatisation et d'aides au déploiement;"Écriture de scripts d'automatisation de configuration linux
+Développement d'interfaces graphiques de configuration";08/04/2019;28/06/2019;HAPTIC ET RÉALITÉ VIRTUELLE;21 Rue Ferdinand Buisson 53810 CHANGÉ;Pierre-Jean PETITPREZ;pierre-jean.petitprez@hrv-simulation.com;12;13;12;14;14;17;18;18
+Olivier;Carole;2019;STI2D;112;2;2;12,02;13,31;Vieillard;Nathalie;Développement;Stagiaire développement Java;"Patricipation au développement et au maintien de notre PGI interne dédié à la gestion des risques lié aux obsolescences
+À ce titre:
+Assurer la maintenance de l'existant: Assurer la relecture et l'écriture du code en respect des consignes établies, rédiger la documentation technique nécessaire pour la maintenance et réaliser les tests
+Le développement de modules: réaliser l'écriture du code en respect des consignes établies, rédiger la documentation technique nécessaire pour la maintenance et réaliser les tests";08/04/2019;21/06/2019;THALES SIX GTS FRANCE;"85 Rue Emile Brault
+53000 LAVAL";Philippe JARROT;philippe.jarrot@thalesgroup.com;16;13;13;14;16;16;16;18
+Vincent;Anna;2022;STI2D;39;1;2;11,95;16,17;Decellières;Charles;Développement;Stage en développement informatique;"Conception, spécifications, développement et test unitaires de solution(s) informatique(s) sur le périmètre Editique/Archivage/Flux. 
+Les solutions à concevoir reposent principalement sur une architecture trois tiers impliquant du développement front (web, généralement angular), back/api REST (généralement Java/Spring Boot) et données (généralement PostgreSQL).
+Le développement de traitements batch (java) est également prévu.";04/04/2022;17/06/2022;GIE SIHM;"HARMONIE MUTUELLE - RH - 
+23, Boulevard Jean Jaurès
+45025 ORLEANS";Fabien FAUVELET;fabien.fauvelet@harmonie-mutuelle.fr;20;20;19;18;20;17;18;17
+Durand;Romain;2020;STI2D;83;1;2;11,93;15,04;Marfisi;Iza;Développement;Projet de dématérialisation de procédures HSE;Créer une et développer une application mobile de dématérialisation des supports papiers tels que les protocoles de sécurité, les plans de prévention tout en tenant compte des exigences de sécurité du Groupe THALES. Collaborer avec l'équipe Hygiène Sécurité Environnement de l'établissement.;15/06/2020;28/08/2020;THALES LAS FRANCE SAS;"29 rue de Montaran
+45400 FLEURY-LES-AUBRAIS";Jean-Lou GODARD;jean-lou.godard@thalesgroup.com;17;16;17;18;18;15;17;16
+Fernandez;Timéo;2022;STI2D;47;1;2;11,90;12,36;Decellières;Charles;Web;Développement d'applications métier full web;"Voici les tâches sur lesquelles le stagiaire sera susceptible de travailler :
+•	Développement de nouvelles fonctionnalités sur une ou des applications web en cours de développement ou en lancement
+•	Résolution de bugs relevés sur une ou des applications web en cours de développement par d’autres développeurs
+•	Création de « packages » permettant de réutiliser du code déjà fait dans d’autres projets à venir";04/04/2022;15/07/2022;Ozytis;"50, Boulevard Félix GRAT
+53000 Laval";Esteban LOISEAU;esteban.loiseau@ozytis.fr;16;13;18;18;16;16;13;18
+Fernandez;Lucas;2021;STI2D;36;2;1;11,90;13,02;Laforcade;Pierre;Mobile;Développement application Android pour mesure de rebond de balles ;En respectant le cadre d'une norme d'essai, l'étudiant devra développer une application capable d'enregistrer le son d’impact d'une balle au sol afin d'en calculer sa hauteur de rebond. Les résultats devront être enregistrés dans un fichier qui sera partagé pour être retraité sous Excel. Dans un second temps, l'intégration d'un relais Bluetooth voir d'un micro Bluetooth pour automatiser l'essai sera souhaitable. L'application sera en français et en anglais et déposée sur le Playstore. Cette application devra également respecter les exigences qualité ISO 17025.;06/04/2021;18/06/2021;"LABO DES SOLS
+";"194 route des Sittelles
+72470 Saint Mars La Brière";Sébastien LACOURT;sebastien.lacourt@labodessols.com;13;15;18;16;18;14;15;15
+Roux;Hugo;2022;STI2D;112;1;2;11,87;13,66;Laforcade;Pierre;Mobile;Développement des fonctionnalités de partage dans l’application mobile de Slite;Slite est une application permettant la rédaction de documents riches. Elle inclut des fonctionnalités de partage (utilisateurs, groupes, email, publique) qui ne sont pas encore disponibles dans l'interface de notre application mobile. L'objectif du stage est d'implémenter ces fonctionnalités existantes dans l'application web en les adaptant pour l'application mobile.;11/04/2022;24/06/2022;SLITE FRANCE;"Le Hub Coworking
+4 rue Gambetta
+37000 Tours";Arnaud RINQUIN;arnaud@slite.com;15;16;19;16;18;16;18;16
+Lambert;Lucas;2017;STI2D;43;1;1;11,87;12,13;George;Sébastien;Web;Développeur web;"Développement web sous html/CSS/php (symphony)
+Ajout de module sur des sites existants, adapter un site de 
+manière à ce qu'il soit responsive
+Développement Androïd: Adaptation de site sous Androïd
+Réseau: mise en place d'un réseau temporaire";10/04/2017;23/06/2017;DATANAUTE;"10 rue Des Peupliers
+72190 SARGE LES LE MANS";Vivien PARISOT;vparisot@datanaute.com;11;12;12;12;13;15;16;14
+Laurent;Chloé;2020;STI2D;90;2;2;11,77;14,56;Hamon;Ludovic;Web;Outils de monitoring des moyens de calcul mutualisés du centre de recherche.;"Conception et réalisation d'outils de monitoring des moyens de calcul mutualisés du centre de recherche. 
+1) Conception et réalisation d'une interface web et d'une API REST pour visualiser l'état des ressources disponibles ainsi que l'état des travaux de calcul en cours ou en attente. L'API sera développée en Go, pour interroger une base de données Postgres existante. L'interface web sera développée en javascript ou typescript, à l'aide d'un framework de type React.js ou Vue.js
+2) Participer (si le temps le permet) à la conception et à la réalistation d'un outil permettant de remonter des métriques d'utilisation fine des ressources de calcul (CPU, mémoire, GPU, etc.), destiné à être exécuté sur chaque serveur d'exécution. Il sera également développé en Go. Ces métriques seront récupérées par un serveur Prometheus, pour un affichage sur une interface Grafana.";06/04/2020;19/06/2020;INRIA Rennes Bretagne Atlantique;"Campus de Beaulieu
+263 Avenue Général Leclerc
+35042 RENNES";Pascal MORILLON;pascal.morillon@irisa.fr;16;16;17;15;13;16;16;18
+Lefevre;Emma;2017;STI2D;52;2;2;11,74;12,26;Oubahssi;Lahcen;Web;Développement de deux applications, une web CRM et une application hybride ;"Participer au développement d'IHM web 
+dans le cadre d'une application WEB CRM 
+pour la distribution automobile";10/04/2017;23/06/2017;EQUINOXE SOFTWARE;"30 Rue Boucicaut
+61130 BELLEME";Daniel ANGOULVENT;dangoulvent@equinoxe-software.fr;12;12;13;13;14;14;14;20
+Lambert;Théo;2018;STI2D;84;1;2;11,72;12,28;Ernet;Bruno;Développement;Développement d'un support pédagogique illustrant un détournement de protocole domotique;"L'objectif est de confectionner un support pédagogique permettant de démontrer les vulnérabilité d'un protocole domotique de façon pratique. Le stagiaire devra livrer une documentation permettant de réaliser successivement les phases de découverte, exploitation et correction de la vulnérabilité, ainsi que l'environnement technique nécessaire à cette réalisation
+
+Développement et détournement de protocole domotique. Si possible, il serait envisagé d’aller jusqu’à du SCADA.
+En pratique, il est prévu de donner comme mission l’expérimentation et la démonstration des vulnérabilités d'un protocole domotique ainsi que les contre-mesures associées. Cette expérimentation utilisera du Python et même peut-être du C si un interfaçage le nécessitait.
+
+Une fois cette partie pratique parfaitement maitrisée, le stagiaire devra rédiger et livrer une documentation. Cette dernière devra être programmée en LATEX et détaillera les phases de découverte, exploitation et correction de vulnérabilités, ainsi que l'environnement technique nécessaire à la réalisation de cette expérimentation.";16/04/2018;29/06/2018;"COMMANDEMENT DES SIC
+AGRH/BRESS/RH";"Rue De La Châtaigneriaie 
+Bâtiment 203
+35510 Cesson-Sevigné";Éric RIOU;eric.riou@intradef.gouv.fr;8;11;18;16;17;17;16;17
+Martin;Valentin;2021;STI2D;40;2;1;11,62;12,27;George;Sébastien;Développement;Outillage autour du logiciel de Paie;"Découvrir le processus de développement d’une fonctionnalité.
+La première fonctionnalité a implémenter sera un import de données des salariés du logiciel de Paie à partir d’un fichier Excel/csv.
+-	Développement Java
+-	Utilisation des outils de développement
+-	Utilisation de la forge logicielle";06/04/2021;25/06/2021;BODET SOFTWARE ;"Boulevard du Cormier - CS 40211
+49302 CHOLET Cedex";Eric CHAPLET;eric.chaplet@bodet-software.com;11;12;13;12;12;12;13;12
+Brunet;Clément;2017;STI2D;56;2;2;11,60;10,74;Walkowiak;Yann;Web;Développeur Web;"Participation au développement et à l'amélioration
+d'applications web (déploiement de certificats SSL,
+gestion des noms de domaine, amélioration de back-office...)
+langages utilisés: PHP, MySQL, JS, CSS+Bootstrap/JQuery, Git";10/04/2017;23/06/2017;VEZIM SARL;"2 Place Saint Germain
+35000 RENNES";Pascal VÉRON;pveron@cyberbrain.net;5;7;10;7;12;15;15;17
+Morin;Tom;2018;STI2D;87;2;2;11,39;12,69;Hamon;Ludovic;Mobile;Application Androïd de gestion des objets connectés TEKIN;Application permettant de lire des QRCodes (ou autres formats à définir) et les envoyer sur une BDD. Objectif: gérer les configurations de produits (ensembles et sous-ensembles);09/04/2018;22/06/2018;TEKIN;"27 Rue Mansart
+37300 JOUÉ LES TOURS";Pascal MICOUD;p.micoud@tekin.fr;15;17;17;17;17;17;16;14
+Vincent;Maëlys;2021;STI2D;43;1;1;11,36;14,29;Marfisi;Iza;Développement;Étude de la faisabilité de l’entreprise Heirs et du développement du projet Manga Math;Le projet a pour but d’étudier le marché de niche que ciblera Heirs, le profil de ses clients, son modèle économique, sa structure juridique, sa communication et la création de son réseau professionnel. De plus, le projet comprend la conception et le développement de l’application Manga Math ainsi que l’amélioration du site vitrine de l’entreprise. Manga Math est un manga interactif qui a pour but d’aider les jeunes du CE1 à la 4éme dans le domaine des mathématiques et de faire découvrir la culture Maya. L'objectif est de produire un chapitre avec 2- 3 éléments de gameplay fonctionnels.;07/04/2021;01/07/2021;Université du Mans/Pépite;;Nathanaël ROUF;Nathanael.rouf@univ-lemans.fr;16;15;17;14;15;20;20;20
+Perrin;Emma;2021;STI2D;45;1;1;11,31;12,34;Laforcade;Pierre;Développement;Participation au développement d'un middleware applicatif créé en interne ;Développement de nouveaux modules et optimisation de modules existants dans l'application à l'aide de l'atelier de génie logiciel Windev : compréhension du besoin utilisateur, programmation orientée objet en WLangage, y compris actions sur la base de données HFSQL, réalisation de l'interface utilisateur.;06/04/2021;18/06/2021;FIGECAL;"rue des Martinières
+53960 BONCHAMP LES LAVAL";Caroline TRUONG-FALLAI;c.truong-fallai@figecal.fr;5;14;16;15;16;14;13;18
+Dupuis;Jules;2022;STI2D;15;2;2;11,28;14,26;Walkowiak;Yann;Développement;Qualification de base de données et création d'une newsletter pour le site MyAbandonware.com;"Depuis 2009, nous éditons le site MyAbandonware.com, une des adresses majeures du retrogaming à travers le monde. Avec son âge d’adolescent, le site a mobilisé des milliers d’heures de travail, mais la liste des évolutions n’en finit plus de s’allonger. Certains items de la liste prennent la poussière depuis 10 ans, c’est pourquoi nous avons besoin de Nicolas pour s'y attaquer.
+
+En objectif premier, MyAbandonware a besoin d’une newsletter hebdomadaire. Épaulé de son maître de stage, Nicolas aura pour mission de :
+
+• qualifier la base email actuelle, comprenant 30 000 entrées, via des solutions à coder et des solutions payantes en API (étude a mener par Nicolas) ;
+• étudier les solutions d’emailing existantes (automatisation via API) ;
+• coder et intégrer la newsletter hebdomadaire (contenu automatisé à coder) ;
+• permettre l’inscription à la newsletter sur le site.
+
+Si sa progression le permet, nous lui proposerons d’autres fonctionnalités à coder, orientées front ou back-end. Un choix pourra être proposé pour correspondre à ses affinités.
+
+En base technologique, il utilisera PHP 7.4, MySQL (MariaDB 10.5), Apache et Linux + MacOS. De par son âge, le site utilise des bibliothèques à la fois anciennes et très récentes, Nicolas devra s'attendre à déchiffrer le code des anciens tout en utilisant Composer. Il travaillera avec l’IDE PHPStorm, et Git en solution de versioning.";04/04/2022;08/07/2022;UTOPIAWEB;"11 quai Chateaubriand
+35000 RENNES";Baptiste PLACÉ;baptiste.place@utopiaweb.fr;15;16;18;18;20;17;17;15
+Perrin;Alexandre;2019;STI2D;123;2;2;11,20;12,44;Barré;Vincent;Développement;Stage développement .Net;Participer au développement d'un gestionnaire d'alarme HMI sur une base Microsoft .NET en langage C# et WPF;29/04/2019;12/07/2019;GROUP SUPPLY AND SUPPORT;"Route de Mamers
+CS 40157
+72405 LA FERTE-BERNARD
+CEDEX";Christophe LE PRIOL;chlepriol@serac.fr;10;12;14;14;14;12;13;14
+Robin;Timothée;2021;STI2D;46;1;2;11,18;13,65;Oubahssi;Lahcen;Développement;Analyste Développeur - JAVA;"Vous intégrerez l'équipe chargée des développements des applications ""métier"" utilisées au sein de VINCI Energies.
+Au cours de votre stage, vous interviendrez sur :
+La réalisation d'application(s) et des tests associés,
+Vous serez également susceptible d'intervenir sur
+L’analyse des besoins
+Et la rédaction de spécifications fonctionnelles.";06/04/2021;27/08/2021;VINCI Energies Systèmes d'Information;"12 rue Pierre-Félix DELARUE 
+Immeuble Bonnafé – Noxasud
+72 000 Le Mans ";Yohann DEROUINEAU;yohann.derouineau@vinci-energies.com;15;13;17;17;17;16;17;18
+Henry;Gabriel;2022;STI2D;56;2;3;11,18;14,07;Walkowiak;Yann;Web;Développeur .NET ICRV;"Nous vous proposons de prendre part à l’implémentation des différentes solutions autour de l’application ICRV (Instrument Connection and Result Validation), qui est au cœur de l’activité de nos laboratoires. Vous assurerez dans un premier temps les évolutions des différents drivers ainsi que des différentes solutions « Front-end » (WPF, Angular) et « Back-end » (C# - .Net Framework/Core, API REST, jobs Hangfire, etc.), conjointement avec les différentes équipes techniques et fonctionnelles.
+Votre objectif final sera de prendre en charge l’implémentation de nouveaux drivers et de participer à la mise en place de nouvelles solutions. 
+Pour ce faire vous devrez :
+-	Vous approprier nos solutions/drivers existant.
+-	Recueillir et comprendre les besoins relatifs aux nouveaux projets. 
+-	Implémenter, documenter et déployer les différentes solutions sur les divers environnements de test et de production.";04/04/2022;17/06/2022;Eurofins NDSC IT Solution Food France;"Rue Pierre Adolphe Bobierre
+44323 Nantes";Hamza Hamdi;hamzahamdi@eurofins.com;14;15;12;15;17;18;18;17
+Vincent;Sarah;2020;STI2D;95;1;3;11,15;13,87;George;Sébastien;Web;Stage Développeur Web ;Création d’un site web pour la gestions des bénévoles de notre structure en html, css ( bootstrap) , php, sql. une partie Front-End (  espace membre, page gestion de son profil membre, une page d'interaction)  et une partie back office pour les administratifs  ;27/04/2020;12/06/2020;LIGUE DE FOOTBALL DES PAYS DE LA LOIRE;"172 bd des pas enchantes
+44230 SAINT SEBASTIEN SUR LOIRE";Bertrand CHESNEAU;bchesneau@fff.fr;12;12;12;12;15;18;18;19
+Roger;Juliette;2022;STI2D;29;3;3;11,10;12,61;Ernet;Bruno;Web;Développement fullstack sur outil interne d'inventaire applicatif;"Analyser les demandes des services Administratif/Direction iD3i
+Proposer des interfaces intuitives 
+Modéliser et implémenter les aspects bdd (SQLServer)
+Développer les formulaires web (ASP.Net Core + VueJS) autour du template hexagonal iD3i
+Tester et présenter les développements à la Direction.";04/04/2022;17/06/2022;iD3i;"100 rue des Mouettes
+29200 BREST";Vincent LEOSTIC;vincent.leostic@id3i.fr;12;11;12;11;13;17;14;15
+Michel;Inès;2021;STI2D;50;2;1;11,10;13,76;Marfisi;Iza;Web;Participation à la migration d'une plateforme web existante sur Symfony 4.4;Reprise de l'existant, identification des évolutions nécessaires avec le Product Owner, participation à la conception du nouveau schéma de données, développement de la nouvelle version en environnement DEV, gestion des évolutions, tickets, mise en place de tests fonctionnels et validation des modules et fonctionnalités avec le Product Owner.;06/04/2021;18/06/2021;BetterB;"SPIRIT 88
+2 RUE PIERRE LEMONNIER 
+BONCHAMP-LES-LAVAL";Benoit NICOLAS;bnicolas@betterb.fr;14,5;12;15;13;12;14;16;15
+Martin;Lucas;2022;STI2D;102;1;1;11,09;12,67;Vieillard;Nathalie;Développement;Développement d'un portail interne à la direction des opérations;"CONTEXTE
+
+Dans le cadre de nos projets internes d’amélioration continue au sein de la Direction des Opérations, et avec le support de notre équipe d’experts technologiques (SWAT), vous participerez à la réalisation d’une nouvelle release du portail interne à la Direction des opérations afin d’outiller certaines activités non couvertes par notre outil intégré de gestion des projets :
+o	Reporting projet global et multisite
+o	Consolidation des tableaux de bord
+o	Génération de synthèses pour les différents services
+
+OBJECTIFS DE LA MISSION
+
+Dans une équipe agile composée de développeurs et d’un Product Owner, vous déroulerez toutes les phases d’un projet de développement, vous participerez :
+o	aux études du besoin
+o	à la construction de la solution technique
+o	à l’architecture logicielle du produit
+o	aux développements front et back 
+o	à l’organisation de l’équipe (rôle de SCRUM master tournant)";11/04/2022;24/06/2022;SII OUEST;"3 BIS AVENUE DE BELLE FONTAINE
+35510 Cesson-Sévigné";Pascaline HALLARD;phallard@sii.fr;12;14;17;12;18;15;17;14
+Bertrand;Emma;2017;STI2D;57;3;2;11,07;13,86;Vieillard;Nathalie;Base de données;Développement d’une application d’acquisition et de gestion de données ;"Il s'agit de développer une base de données pour la fabrication des bandes platrées, récupérer
+les informations machine à intégrer dans la base, enregistrer les données et pouvoir les suivre
+de la fabrication des masses à leur conditionnement";10/04/2017;31/08/2017;BSN Medical;"CS 900
+B.P. 22
+Rue Du Millenaire
+72320 VIBRAYE";Thierry COUANON;thierry.couanon@bsnmedical.com;17;16;18;15;14;16;18;17
+Girardot;Clara;2020;STI2D;100;1;2;11,04;11,55;Hamon;Ludovic;Web;Refonte intégrale du visuel applicatif;Analyse et conception des maquettes des interfaces graphiques, analyse UX des visuels de l'application, développements FRONT des fonctionnalités métiers et rédaction cahier de tests et documentation.;18/05/2020;31/07/2020;SAS JE SUIS EN COURS;"17 Rue de la Guillauderie
+44118 LA CHEVROLIERE";Antoine GUITTET;antoine.guittet@jesuisencours.com;7;11;10;11;12;12;14;12
+Renard;Léna;2017;STI2D;97;2;2;11,00;12,68;Cherni;Héni;Web;Développeur Web société AKELIO ;"Rémi participera au développement d'applications web
+développés avec les technologies JAVA, JSF, SPRING, HTML et CSS
+principalement. Il participera au développement de nouvelles
+fonctionnalités sur différentes applications pour nos clients
+et sur Acollab, notre plateforme collaborative que nous developpons en interne";10/04/2017;23/06/2017;AKELIO;75 Boulevard Marie et Alexandre Oyon, 72100 Le Mans;Guillaume LOUVEL;louvel@akelio.fr;16;14;16;16;16;10;12;12
+Lemaire;Romane;2021;STI2D;53;1;3;11,00;12,71;Barré;Vincent;Développement;Mécanismes de Fail Over;"Analyse et prototypage de mécanismes de fail over pour validation puis développement et l’intégration dans notre application. Bien entendu, la documentation sur ce type de projet est fondamental.
+Notre application fonctionne sur un composant Tomcat  protégé par un proxy Apache et des composants qui gravitent autour. Nous avons déjà une version de FailOver que nous voudrions faire évoluer pour plus de souplesses, plus de sécurité et surtout pour intégrer un modem GSM en cas de panne réseau.  ";07/04/2021;11/08/2021;LOG² SYSTEMS;"50 rue du Docteur Le Savoureux
+92290 CHATENAY MALABRY";Serge RAYNAUD;serge.raynaud@log2systems.com;15;15;16;16;16;17;15;19
+Rolland;Tom;2022;STI2D;69;3;1;10,98;14,71;Roulin;Olivier;Web;Conception et développement d'une API REST (+ client Web tableau de bord) pour la gestion des données d'un jeu d'entrainement aux tables de multiplication;Les missions consisteront à 1/ mettre en place une API REST (.NET CORE) de gestion de données (persistance avec MongoDB) 2/ intégrer l'utilisation de cette API dans un jeu sérieux (développement C# Unity pour Build WebGL) 3/ développer un tableau de bord de suivi pour l'enseignant (Client Web Blazor .NET CORE);04/04/2022;17/06/2022;Le Mans Université/LIUM;"IUT de LAVAL, 
+Bâtiment CERIUM², 
+15 rue des docteurs Calmette et Guérin, 
+53000 Laval";Pierre LAFORCADE;pierre.laforcade@univ-lemans.fr;18;16;19;18;18;16;18;19
+Mathieu;Louis;2021;STI2D;76;3;3;10,95;10,88;Walkowiak;Yann;Web;Forum d'association - Sous projet : Navigation basique et backend;"Compréhension du backend existant  linux, J2EE tomcat, MySql, eclipse JAVA
+Petites maintenances JAVA pour s’exercer
+Compréhension des interactions REST avec les applis clientes";06/04/2021;31/07/2021;Entente Sportive Caudacienne;"Rue du chemin vert
+94510 La Queue en brie";Alberge Thierry;e.forum.fr@gmail.com;11;10;14;13;13;12;12;14
+Blanc;Lola;2022;STI2D;84;2;3;10,94;14,18;Laforcade;Pierre;Développement;Stage optimisation programmes Windev;"Le stagiaire aura pour objectifs d'assurer la montée de version de programmes Windev, l'optimisation de code, la variabilisation de certains modules et le développement de modules génériques ""implémentables"" sur l'ensemble de nos outils";04/04/2022;17/06/2022;FPEE Industries;"2 rue Henri Vallée - CS 20002
+72350 BRULON";Laurent Tauvry;ltauvry@fpee.fr;15;16;18;15;19;20;18;20
+Blanc;Romane;2018;STI2D;92;1;2;10,89;8,73;Marfisi;Iza;Développement;Participation à la réalisation et la restructuration d'un logiciel de suivi d'essais animalier;"Une application créée par l'équipe de développement du centre a besoin d'être rafraichie, rationnalisée afin dans un premier temps de fonctionner de manière plus ""propre"" et sans doute dans un deuxième temps d'être portée vers un environnement plus récent";16/04/2018;29/06/2018;EURONUTRITION;"Ferme d'Innovations et de Recherches 
+de Sourches, 
+72240 SAINT-SYMPHORIEN";Thierry MOURLANNE;thierry@mourlanne.com;8;6;11;9;11;9;8;12
+Brun;Eliott;2018;STI2D;107;2;3;10,85;12,60;George;Sébastien;Web;Développement d'une application web;"- finaliser l'application web (ajouter des fonctionnalités avec le langage PHP/HTML)
+- Assurer la maintenance corrective
+- Tester et valider l'application web";16/04/2018;29/06/2018;DOH CONSULTANTS;"R&D
+23 RUE de Wagtam
+94470 Boissy-Saint-Léger";Mohamed Lamine BENCHAIB;mohamed.benchaib@dohconsultants.com;11;13;12;13;14;14;18;17
+Roussel;Noah;2021;STI2D;77;3;1;10,82;12,51;Vieillard;Nathalie;Mobile;Stage de developpement d'application IOS / ANDROID;Le  stagiaire  va  intervenir  sur le  développement  d'applications   IOS/ANDROID  avec le  framework de PCSOFT.  les fonctionnalités  sont à destination des clients de  nos partenaires pour  récupérer des documents  (contrat, devis, facture, attestation) et de faire de  la signature de document.  Ces applications seront en lien avec un site web et communiquent par API .;06/04/2021;10/07/2021;ASSISTANCE PRESTATIONS PROJETS INFORMATIQUES;"Le village by CA bld alexandre oyon
+72000 Le Mans";FRANCOIS PLESSIET;alain.plessiet@atwopi.fr;11;13;14;14;16;15;17;16
+Gauthier;Élise;2019;STI2D;124;1;3;10,76;11,28;Laborie;Clément;Web;Accompagnement de la mise en place d'un ERP de scolarité;"1 Accompagnement à la mise en place d'un ERP scolarisé
+* Modélisation des interfaces Web par individus (Etudiants, permanents, intervenants...)
+* Edition bureautique intégrée (Jasper Report)
+* Mise en place de workflow d'automatisation
+2 Participer à la gestion du service informatique (test de virutalisation, déploiement des machines...)";08/04/2019;21/06/2019;ECAM-RENNES LOUI DE BROGLIE;"Campus de Ker Lann-Bruz
+CS 29128
+35091 Rennes Cedex 9";François PAYEN;francois.payen@ecam-rennes.fr;9;9;16;12;15;16;18;18
+Roche;Mathéo;2018;STI2D;123;3;1;10,76;11,00;Hamon;Ludovic;Développement;Stage en développement informatique;"- Amélioration d'un logiciel de pilotage machine
+- Réalisation de modules programmes de communication
+- Gestion et requête de base de données";09/04/2018;20/07/2018;TECAUMA;"7 Rue Gustave Eiffel
+85140 LES ESSARS";Nicolas MORIN;nicolas.morin@tecauma.fr;12;9;15;12;12;10;14;17
+Lefebvre;Valentin;2020;STI2D;116;2;3;10,69;14,01;Oubahssi;Lahcen;Web;Inventaire et remise a niveau des sites internet du CD53;Nous souhaitons inventorier nos sites internet actuellement héberger chez Oceanet, sur lesquels des actions techniques d'évolution sont a prévoir. Durant le stage, nous souhaitons donc réaliser un Document d'architecture technique des sites hebergés, et des solutions de transferts vers des plateformes sécurisés et validées par l'hebergeur. ;06/04/2020;03/07/2020;Conseil départemental de la Mayenne;"6 Rue Albert Einstein
+53000 LAVAL";Cédric DUVAL;cedric.duval@lamayenne.fr;11;12;12;12;13;17;18;17
+Roussel;Zoé;2020;STI2D;121;2;4;10,64;11,16;Vieillard;Nathalie;Développement;Développement d'un jeu sérieux;Développement d'un jeu sérieux simple (apprentissage tables de + * - en maths) pour avoir un second contexte sur lequel appliquer l'adaptation des scénarios de jeu en fonction du profil apprentissage de l'élève. Le développement se fera sous Unity : fonctionnalités les plus importantes => 1/ interprétation du scénario fourni au format XML 2/ déroulement du scénario (moteur + ihm) 3/ mise a jour et visualisation du profil (logic + IHM);02/06/2020;24/07/2020;Le Mans Université, Laboratoire LIUM;IUT de LAVAL, bâtiment CERIUM², 15 rue des docteurs Calmette et Guérin, 53 000 Laval;Pierre LAFORCADE;pierre.laforcade@univ-lemans.fr;11;12;12;13;13;10;10;14
+Blanc;Tom;2020;STI2D;128;3;4;10,61;9,20;Djadja;Jean Delest;Base de données;Projet de développement d'une application pour la mise en forme des données à intégrer dans SAP TM;"Dans le cadre du déploiement du progiciel SAP TM sur les unités de production d'Agromousquetaires, nous souhaitons confier à Etienne l'étude et la conception d'une application qui permettrait d'améliorer le contrôle, la mise en forme et l'intégration des données dans SAP TM.
+SAP TM est le TMS (Transport Management System) de la société AgroM Transport dont la vocation est d'assurer au minimum la facturation du transport à l'achat et à la vente pour l'ensemble des unités de production d'Agromousquetaires.
+L'étude à mener par Etienne se portera sur le cas des unités de production dont le transport est organisé dans un système tiers ou par un prestataire logistique (EIT) mais dont on doit assurer la facturation dans SAP TM.
+Parallèlement à cette étude et en fonction de la charge qu'elle représentera sur la période du stage qu'il doit effectuer, Etienne pourra participer à la réalisation de requêtes SQL sur les données transport pour la constitution de rapports sous Qlikview ou Qlik Sense.";01/06/2020;14/08/2020;AGROM SERVICE;"Allée Joseph Cugnot
+35500 VITRE";Thierry HOCQUELLET;thierry.hocquellet@mousquetaires.com;8;8;10;14;15;18;18;20
+Brunet;Enzo;2018;STI2D;125;2;4;10,59;13,06;Loiseau;Esteban;Développement;Développement d'une application de reporting (interne à la société);"Intégration de données de base
+Traitement des données puis restitution sous forme ludique (graphique...)";09/04/2018;22/06/2018;APPLIDEV;"131 Avenue Nationale
+72230 ARNAGE";Bastien ARNAUD-MOZDZER;bastien.arnaud-mozdzer@applidev.tv;14;14,5;18;15;15;16;17;18
+Renard;Clara;2021;STI2D;90;2;4;10,37;13,33;Vieillard;Nathalie;Web;DEVELOPPEUR WEB;"HOKOHA développe une solution numérique permettant la dématérialisation des évaluations des tests pratiques pour des formations sécurités (SST, Habilitations électriques, CACES, ...). La commercialisation de cette solution a débuté depuis 3 mois.
+Le stagiaire intégrera l'équipe de ce projet et il aura pour mission : 
+ 1- De participer au développement du site Web commercial de ce produit,
+ 2- De participer au développement de nouvelles fonctionnalités du Back Office du produit sous Symfony";06/04/2021;30/07/2021;HOKOHA;"6, rue Léonard de Vinci
+53001 LAVAL";Franck HORTALA;f.hortala@hokoha.com;14;14;18;14;17;13;14;17
+Durand;Clara;2017;STI2D;108;3;4;10,36;11,19;Walkowiak;Yann;Mobile;Stage développement Appli Androïd;"Développement d'une application native sur tablette Androïd
+Saisie des comptes rendus d'interventions et envoie sur le back office
+(web service REST). Synchronisation des données, identification et gestion du mode
+hors ligne font parties des fonctionnalités demandées";10/04/2017;23/06/2017;SARL SOFTENA;"Boulevard De La Communication
+KOI Centre D'Affaires
+53950 LOUVERNÉ";Sébastien RASTOLL;srastoll@softena.com;14;14;16;13;13;13;14;14
+Guillot;Thibault;2017;STI2D;113;3;4;10,35;11,99;Ernet;Bruno;Développement;Développement d'un séquenceur d'analyse de sécurité;"Développement de fonctionnalités sur un logiciel java
+servant à réaliser des analyses risques
+Amélioration des IHM et adaptation double support:
+PC et tablette";10/04/2017;23/06/2017;THALES Communications et Security;85 rue Émile Brault, 53000 Laval;Gaële T'Kint De Roodenbeke;gaele.tkintderoodenbeke@thalesgroup.com;15;11;13;11;15;13;11;15
+Henry;Samuel;2022;STI2D;118;3;2;10,35;;Hamon;Ludovic;Web;Développement d'applications Web;Développement d'une application Full web de gestion de SMS pour plusieurs clients;02/05/2022;15/07/2022;Althéa Solutions;"12 Boulevard Latouche
+72200 LA FLECHE";Lionel hardy;lionel.hardy@althea-solutions.fr;11;13;14;14;12;10;12;14
+Dubois;Zoé;2021;STI2D;92;2;2;10,28;11,52;Vieillard;Nathalie;Développement;Outil de communication interne phygitale;"-	Diffuser de l’information en continue sur l’ensemble de nos sites logistiques
+-	Avoir de l’information spécifiques selon les sites (indicateurs)
+-	Piloter et paramétrer à distance le contenu et la diffusion
+-	Etre interactif (grands écrans tactiles)
+-	Se connecter à notre réseau social d’entreprise (Drupal Opensocial V8)";06/04/2021;25/06/2021;HV2A TREMBLAYE HOLDING;"Rue Hippolyte Foucault - CS12131
+72021 LE MANS Cedex 2";Anthony BOIVIN;anthony.boivin@tremblaye-sa.fr;12;12;8;13;14;16;17;18
+Chevalier;Clara;2021;STI2D;109;3;2;10,19;13,55;Djadja;Jean Delest;Web;Conception et création d'un backend applicatif;Le sujet principal sera la conception et le développement d'une plateforme en backend pour le suivi et l'administration de notre solution SaaS à destination des artisans. Ces derniers ont un abonnement, avec des types de comptes et utilisateurs pour les personnes en chantier, au bureau, etc. Nous souhaitons aider notre équipe commerciale et nos partenaires en leur offrant un portail permettant de suivre et maintenir le parc installé (ajouter des utilisateurs, les renommer, faire des statistiques, etc.).;06/04/2021;18/06/2021;Interfacto;"21 rue Ferdinand Buisson
+53810 Changé";Jonathan Dumont;jonathan.dumont@interfacto.fr;15;14;16;13;15;10;15;18
+Girardot;Louis;2017;STI2D;126;3;2;10,17;12,03;Barré;Vincent;Développement;Création d'une interface client pour factures dématérialisées ;"Mise en place de factures dématérialisées 
+pour les clients d'Applidev'
+Création d'un espace-clients pour télécharger
+les factures (et devis ?) et d'éventuels autres 
+documents (convention de formation...)";10/04/2017;23/06/2017;APPLIDEV';"131 Avenue Nationale
+72230 ARNAGE";Clément DETURCK;"clement.deturck@applidev.tv
+";15;13;14;16;14;20;20;20
+Schmitt;Bastien;2021;STI2D;111;3;4;10,05;14,16;Marfisi;Iza;Web;Étude de la faisabilité de l’entreprise Heirs et du développement du projet Manga Math;Le projet a pour but d’étudier le marché de niche que ciblera Heirs, le profil de ses clients, son modèle économique, sa structure juridique, sa communication et la création de son réseau professionnel. De plus, le projet comprend la conception et le développement de l’application Manga Math ainsi que l’amélioration du site vitrine de l’entreprise. Manga Math est un manga interactif qui a pour but d’aider les jeunes du CE1 à la 4éme dans le domaine des mathématiques et de faire découvrir la culture Maya. L'objectif est de produire un chapitre avec 2- 3 éléments de gameplay fonctionnels.;07/04/2021;01/07/2021;Université du Mans/Pépite;;Nathanaël ROUF;Nathanael.rouf@univ-lemans.fr;16;14;13;13;14;20;20;20
+Rolland;Eva;2017;STI2D;138;4;4;10,01;11,73;Cherni;Héni;Développement;Conception et développement d’une banque de données d’algorithmes d’interactions innovantes ;"Dans le cadre du Projet ANR JEN.Lab, destiné à confronter les apprenants à des résolutions de problèmes plus réalistes, l’outil « Mixed Reality for Development tools for learninG gamE » (MIREDGE) a été conçu pour aider les développeurs de jeux sérieux à interfacer leur application avec des périphériques de réalité virtuelle ou mixte. Ce sujet de stage porte ainsi sur la conception et le développement de nouvelles fonctionnalités pour MIREDGE. Les objectifs du stage sont les suivantes :
+- Prise en main de l’outil MIREDGE et de ses ressources sous Eclipse
+- Recherche de besoins d’interactions utiles à une salle de classe virtuelle
+- Intégrer de nouveaux items de programmation dans le générateur de script MIREDGE afin de faciliter l’implémentation des interactions préalablement identifiées
+";10/04/2017;23/06/2017;"Laboratoire d'Informatique de l'Université du Maine (LIUM)
+";"54 rue des Docteurs Calmette et Guérin
+53000 Laval";Ludovic Hamon;ludovic.hamon@univ-lemans.fr;8;11;14;12;11,5;15;17;19
+Roussel;Raphaël;2018;STI2D;126;3;2;9,95;10,83;Ernet;Bruno;Développement;Développement d'un module optimisation devis à partir de l'outil STORM;"Enrichir l'application ERP STORM, développé par le LOB (Laboratoire des obsolescences)
+d'un module permettant d'optimiser les devis en tenant compte de la mutualisation de la base de données";09/04/2018;22/06/2018;THALES COMMUNICATIONs & SECURITY;"85 Rue Emile BRAULT
+53000 LAVAL";Philippe MALLET;philippe.mallet@thalesgroup.com;7;9;15;12;13;14;11;10
+Laurent;Chloé;2021;STI2D;114;3;4;9,87;12,33;Hamon;Ludovic;Web;Développement et intégration d'un logiciel de suivi des abscences à l'IUT;"À partir d’un cahier des charges, le(a) stagiaire devra développer une application numérique permettant aux départements de l’IUT de suivre les absences des étudiants en formation et de générer des trombinoscopes par groupes de TP. Le suivi des absences vise à permettre la saisie de ces dernières, un monitoring selon des indicateurs définis par l’IUT et plus spécifiquement par les départements, et la génération d’alertes automatiques aux utilisateurs concernés. D’autre part, la génération de trombinoscopes permet la simplification des traitements qui incombent aux secrétariats, en offrant leurs créations automatisées.
+Dans un premier temps, le(a) stagiaire mènera une analyse sur (i) la solution existante, vieillissante et dont la maintenance ne peut plus être assurée, mais répondant aux besoins actuels, et (ii) le cahier des charges exprimant les fonctionnalités désirées à l’avenir, correspondant mieux aux besoins des usagers, et des changements possibles du modèle de données incombant au passage au B.U.T. L’objectif de cette analyse est d’identifier pour quelle stratégie de développement opter, entre une adaptation de l’existant ou le développement d’une nouvelle application web.
+Dans un second temps, le(a) stagiaire prendra en charge le développement de la solution identifiée, en assurant l’intégration de l’application dans le système d’information universitaire (i.e. : authentification centralisée, intégration des sources de données nécessaires déjà présentes sur le SI) et en prenant en compte le règlement général sur la protection des données (RGPD). D’autre part, les choix de développement devront être également motivés pour réaliser une application adaptable aux besoins potentiellement changeants des usagers (ex. : critères d’envoi des alertes sur absences), et facilement maintenable par des développeurs ultérieurs. Enfin la rédaction d’un manuel d’utilisation sera nécessaire pour assurer une prise en main rapide des usagers non informaticiens.";12/04/2021;25/06/2021;Le Mans Université, Laboratoire LIUM;"52 Rue des Docteurs Calmette et Guérin BP 2045 
+53 020 LAVAL CEDEX 09";Rémi Venant;remi.venant@univ-lemans.fr;14;8;12;10;12;15;15;13
+Renaud;Catherine;2019;STI2D;151;4;3;9,85;11,37;Laborie;Clément;Web;Designer graphiqe orienté web;"Proposer une modélisation des applications pour une implémentation appropriée
+Réaliser la construction des applications en accord avec les standards de l'institution et générer des rapports
+Organiser une formation pour les utilisateurs finaux sur l'utilisation correcte des éléments développés
+Réaliser la documentation technique des éléments développés
+Participer à des groupes interdisciplinaires dans la collecte d’informations et d’exigences avec les clients de la région
+";08/04/2019;05/07/2019;Universitaria Virtual Internacional;"Avenida Caracas # 76 - 51
+Bogota D;C.
+Colombia, Suramérica";Diego Enrique Maciado;direccion.ti@uvirtual.edu.co;16;10;14;10;14;20;20;20
+Picard;Lucas;2020;STI2D;134;3;2;9,78;12,44;Laborie;Clément;Web;Stage développeur full stack;"Refonte de notre système d'information, un projet transverse de 2 ans et demi. Nous abordons les dernières phases de notre projet puisque la MEP est prévue mi mai. De nombreuses briques fonctionnelles ne seront pour autant pas finalisées à cette date.
+Ce projet IT présente de nombreux chantiers dont le développement d'un portail basé sur Angular et sur un socle middleware JAVA.
+Le stagiaire sera encadré par un responsable de développement et intégré à l'équipe Front End pour développer des briques applicatives.";01/06/2020;14/08/2020;GROUPE ZEPHIR;"AV DU PRESIDENT WILSON
+44110 CHATEAUBRIANT";Ludovic DURAND;ludovic.durand@groupe-zephir.fr;10;11;11;11;14;18;18;18
+Schmitt;Juliette;2021;STI2D;137;3;3;9,69;13,22;George;Sébastien;Développement;Génération de code;A partir d'un fichier XML dont les balises representent des objets et leurs attributs des propriétés, il faudra développer une application capable de générer du code c#. Ce code sera ensuite compiler dans une application Hololens afin d'améliorer les performances d'instantiation.;06/04/2021;18/06/2021;Synergiz;"4 Rue René Martineau
+35400 Saint-Malo";Samuel Blanchard;sblanchard@synergiz.com;14;13;13;13;11;17;18;16
+Brun;Virginie;2019;STI2D;163;2;3;9,47;12,81;Laforcade;Pierre;Web;Developpeur Full stack.net;Analyse et développer sur plateforme web, web API, mobile Androïd;08/04/2019;30/08/2019;SAS COMERSO;"16 Rue Du Clon
+49100 ANGERS";Arthur JAOUEN;arthur.jaouen@comerso.fr;12;12;15;12;13;14;14;16
+Lemoine;Eliott;2022;STI2D;147;2;2;9,43;12,81;Djadja;Jean Delest;Développement;Démonstrateur pour contrôle des visiteurs en entreprise;Reprise d'un précédent démonstrateur pour le transformer en mode 100% mobile. Développement natif iOS et Android, intégration du SDK Wizidee, interfaçage d'une imprimante de badge.;04/04/2022;17/06/2022;Everial;"106 AV PIERRE DE COUBERTIN
+53000 Laval";Jean-Pierre Raysz;jean-pierre.raysz@everial.com;15;17;17;17;17;18;18;18
+Leclerc;Baptiste;2021;STI2D;142;2;2;9,41;13,17;Roulin;Olivier;Web;AMELIORATION DU PORTAIL DE NOTRE SITE;L'objectif du stage est d'améliorer notre portail client qui nous sert de plateforme de communication tant sur le dossier du client, les demandes d'intervention ou d'évolutions. L'objectif est d'améliorer celui-ci d'un point de vue fonctionnel. Le responsable de stage communiquera les besoins lors de la venue du stagiaire.;06/04/2021;18/06/2021;ALTA CONCEPT;"167 rue de Beauge
+72000 LE MANS";ALAN LOCHET;flochet@altaconcept.com;13;14;12;12;12;15;12;17
+Lecomte;Marina;2019;STI2D;164;;;9,29;11,63;Oubahssi;Lahcen;Test;Intervention sur un projet de Testing Fonctionnel;"Le stagiaire interviendra en tant que Testeur au sein du centre de service de test de CGI FGDC Rennes :
+- Montée en compétences sur la méthodologie testing et les outils utilisés
+- Participation aux versions 19.1 et 19.2 IHM :
+Exécution de campagnes de Non Régression, conception des fiches de test, exécution de campagnes évolutives 
+Il s’agit de tests fonctionnels. Le stagiaire intègrera une tierce recette applicative (TRA) pour un client bancaire. ";08/04/2019;09/08/2019;CGI France SAS FGDC GRAL;"Energies
+3 Avenue De Belle Fontaine
+35510 CESSON-SÉVIGNÉ";Katia SEVEON WATTIAU;katia.seveon.wattiau@cgi.com;12;12;13;13;14;13;10;18
+Dubois;Lisa;2018;STI2D;127;4;6;9,12;5,84;Walkowiak;Yann;Web;Mise à jour d'un outil de reporting en PHP;Contribuer à l'amélioration et à l'automatisation de l'outil de reporting du service infogérence pour permettre à l'équipe d'agréger toutes sortes de contenus tels que: disponibilité et performance de l'application statistiques web, récapitulatif et suivis des incidents, mesure des bandes passantes,...;09/04/2018;22/06/2018;JOUVE;"1 rue du Docteur Sauvé, 
+53100 MAYENNE";Philippe QUENTIN;pquentin@jouve.com;0;0;0;0;0;0;12;10
+Moreau;Thibault;2021;STI2D;144;5;2;8,84;11,70;Roulin;Olivier;Développement;Développement informatique d'un outil de gestion des plannings en métrologie;La mission comporte 5 étapes : 1 - Etude du besoin à partir d'une expression de besoin rédigée par les utilisateurs. 2 - Conception et réalisation, en s'appuyant de préférence sur le standard de l'entreprise ou à défaut développement d'une interface web s'appuyant sur la base de données de l'entreprise. 3 - Tests informatiques et accompagnement des utilisateurs à la réalisation de tests métiers. 4 - Rédaction de la documentation (développement, gestion du projet, utilisation de l’outil). 5 - Transfert de compétence à l’équipe SI de l'entreprise;06/04/2021;05/08/2021;EHESP-LERES;"Avenue du professeur Léon Bernard
+35000 RENNES";Dominique Verrey;dominique.verrey@ehesp.fr;13;12;15;14;12;13;15;14
+Carre;Mélanie;2019;STI2D;166;4;3;8,37;11,29;Hamon;Ludovic;Développement;Développement logiciel;"Réalisation module de test automatique de transferts Pesit
+Maintenance évolution solution logicielle";27/05/2019;09/08/2019;CEDRICOM;"7 Rue de la Motte d'Ille
+B.P. 43107
+35831 BETTON Cedex";Yves CLOGENSON;yclogenson@cedricom.com;14;12;13;13;13;14;16;15
+Dubois;Raphaël;2020;STI2D;135;6;3;7,81;9,74;Hamon;Ludovic;Développement;Développement d'une interface de suivi patient à destination des professionnels de santé;La société Guty propose d'aider les malades atteints de pathologies digestives à réussir leurs transitions alimentaires et à diminuer leurs symptômes, grâce à un accompagnement continu (téléconsultation, chat, suivi quotidien via un journal de bord digital, vidéo de formations) par des spécialistes de leurs pathologies (diététiciens, experts en thérapie cognitivo-comportemental, etc). La partie technologique de l'offre repose sur une application mobile à destination des patients, et une interface web de suivi, sur laquelle les médecins et experts nutritions peuvent suivre l'évolution de l'alimentation et des symptômes de leurs patients, créer et mettre à jour leurs programmes de soins, et répondre à leurs questions. Thomas travaillera avec le CTO de Guty, en méthode agile, à la conception d'une 1ère version de cette interface web de suivi, à travers les tâches suivantes: recueil et formalisation du besoin, maquettage, mise en place de l'infrastructure sur GCP, développement du back (Google Firestore et Cloud Functions) et du front (vue.js ou Flutter web, à confirmer), rédaction de la documentation, tests et déploiement. Le tout en respectant les normes et contraintes inhérentes aux solutions traitant des données de santé.;11/05/2020;03/07/2020;GUTY CARE;"2 RUE DE LA MABILAIS
+35000 RENNES";Charlie BIGER;charlie@guty.me;8;10;14;14;14;12;15;18
+Gauthier;Lola;2022;STMG;12;0;0;14,22;14,89;Oubahssi;Lahcen;Développement;Programme d'import comptable intelligent;Développer une interface d'import d'un grand livre comptable. Cette interface doit détecter automatiquement le format utilisé parmi une centaine existant, et détecter les erreurs fonctionnelles présentes éventuellement dans les données, et proposer des solutions de traitement de ces erreurs.;04/04/2022;29/07/2022;COMPTACOM;"162, avenue des Français Libres
+53000 LAVAL";Fanch Bonnabesse;fanch.bonnabesse@compta.com;16;14;16;14;16;18;18;18
